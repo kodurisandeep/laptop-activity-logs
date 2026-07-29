@@ -1,8 +1,94 @@
 {
     "date": "2026-07-28",
-    "cpu_percent": 1.7,
-    "memory_percent": 47.7,
+    "cpu_percent": 1.8,
+    "memory_percent": 50.0,
     "disk_usage_percent": 62.7,
-    "process_count": 229,
-    "boot_time": "2026-07-16T19:25:18.341365"
+    "boot_time": "2026-07-16T19:25:18.353073",
+    "process_count": 236,
+    "top_cpu_processes": [
+        {
+            "cpu_percent": 0.0,
+            "pid": 0,
+            "name": "System Idle Process",
+            "memory_percent": 5.021948425594059e-05
+        },
+        {
+            "cpu_percent": 0.0,
+            "pid": 4,
+            "name": "System",
+            "memory_percent": 0.08220929572697475
+        },
+        {
+            "cpu_percent": 0.0,
+            "pid": 236,
+            "name": "",
+            "memory_percent": 0.4303056508470269
+        },
+        {
+            "cpu_percent": 0.0,
+            "pid": 280,
+            "name": "Registry",
+            "memory_percent": 0.3256231359155188
+        },
+        {
+            "cpu_percent": 0.0,
+            "pid": 872,
+            "name": "smss.exe",
+            "memory_percent": 0.007005618053703712
+        }
+    ],
+    "top_memory_processes": [
+        {
+            "cpu_percent": 0.0,
+            "pid": 19780,
+            "name": "mscopilot.exe",
+            "memory_percent": 4.456050167255992
+        },
+        {
+            "cpu_percent": 0.0,
+            "pid": 15268,
+            "name": "explorer.exe",
+            "memory_percent": 2.463793007338573
+        },
+        {
+            "cpu_percent": 0.0,
+            "pid": 5112,
+            "name": "MsMpEng.exe",
+            "memory_percent": 2.1382200909073106
+        },
+        {
+            "cpu_percent": 0.0,
+            "pid": 12536,
+            "name": "msedge.exe",
+            "memory_percent": 2.031127040731517
+        },
+        {
+            "cpu_percent": 0.0,
+            "pid": 4212,
+            "name": "MemCompression",
+            "memory_percent": 1.4998802265300495
+        }
+    ],
+    "most_common_apps": [
+        [
+            "svchost.exe",
+            88
+        ],
+        [
+            "msedge.exe",
+            11
+        ],
+        [
+            "mscopilot.exe",
+            9
+        ],
+        [
+            "SearchFilterHost.exe",
+            6
+        ],
+        [
+            "msedgewebview2.exe",
+            6
+        ]
+    ]
 }
