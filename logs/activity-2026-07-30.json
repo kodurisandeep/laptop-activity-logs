@@ -1,78 +1,78 @@
 {
     "date": "2026-07-30",
-    "cpu_percent": 3.7,
-    "memory_percent": 40.0,
+    "cpu_percent": 10.3,
+    "memory_percent": 40.9,
     "disk_usage_percent": 62.4,
-    "boot_time": "2026-07-16T19:25:20.654095",
-    "process_count": 208,
+    "boot_time": "2026-07-16T19:25:20.668086",
+    "process_count": 222,
     "top_cpu_processes": [
         {
-            "cpu_percent": 0.0,
             "name": "System Idle Process",
-            "pid": 0,
-            "memory_percent": 5.021948425594059e-05
+            "cpu_percent": 0.0,
+            "memory_percent": 5.021948425594059e-05,
+            "pid": 0
         },
         {
-            "cpu_percent": 0.0,
             "name": "System",
-            "pid": 4,
-            "memory_percent": 0.039949599725600735
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04170728167455866,
+            "pid": 4
         },
         {
-            "cpu_percent": 0.0,
             "name": "",
-            "pid": 236,
-            "memory_percent": 0.4303056508470269
+            "cpu_percent": 0.0,
+            "memory_percent": 0.4303056508470269,
+            "pid": 236
         },
         {
-            "cpu_percent": 0.0,
             "name": "svchost.exe",
-            "pid": 276,
-            "memory_percent": 0.16665335850333884
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1666784682454668,
+            "pid": 276
         },
         {
-            "cpu_percent": 0.0,
             "name": "Registry",
-            "pid": 280,
-            "memory_percent": 0.32070162645843664
+            "cpu_percent": 0.0,
+            "memory_percent": 0.3644176875032329,
+            "pid": 280
         }
     ],
     "top_memory_processes": [
         {
-            "cpu_percent": 0.0,
             "name": "MsMpEng.exe",
-            "pid": 17908,
-            "memory_percent": 2.4327071465841463
+            "cpu_percent": 0.0,
+            "memory_percent": 2.7037165933713294,
+            "pid": 17908
         },
         {
-            "cpu_percent": 0.0,
             "name": "explorer.exe",
-            "pid": 26616,
-            "memory_percent": 2.0130731361415064
+            "cpu_percent": 0.0,
+            "memory_percent": 2.2624882046986357,
+            "pid": 26616
         },
         {
-            "cpu_percent": 0.0,
             "name": "PhoneExperienceHost.exe",
-            "pid": 7148,
-            "memory_percent": 1.2878786737435965
+            "cpu_percent": 0.0,
+            "memory_percent": 1.2918209032576877,
+            "pid": 7148
         },
         {
-            "cpu_percent": 0.0,
             "name": "msedge.exe",
-            "pid": 19608,
-            "memory_percent": 1.1045775562094133
+            "cpu_percent": 0.0,
+            "memory_percent": 1.148720482870385,
+            "pid": 19608
         },
         {
-            "cpu_percent": 0.0,
             "name": "StartMenuExperienceHost.exe",
-            "pid": 6092,
-            "memory_percent": 1.0517968782564195
+            "cpu_percent": 0.0,
+            "memory_percent": 1.055914875965407,
+            "pid": 6092
         }
     ],
     "most_common_apps": [
         [
             "svchost.exe",
-            86
+            91
         ],
         [
             "SearchFilterHost.exe",
