@@ -1,82 +1,78 @@
 {
     "date": "2026-07-31",
-    "cpu_percent": 25.8,
-    "memory_percent": 40.4,
-    "disk_usage_percent": 62.4,
-    "boot_time": "2026-07-16T19:25:20.653881",
-    "process_count": 230,
+    "cpu_percent": 8.9,
+    "memory_percent": 40.0,
+    "disk_usage_percent": 62.6,
+    "boot_time": "2026-07-16T19:25:20.657665",
+    "process_count": 213,
     "top_cpu_processes": [
         {
+            "pid": 0,
+            "cpu_percent": 0.0,
             "memory_percent": 5.021948425594059e-05,
-            "name": "System Idle Process",
-            "cpu_percent": 0.0,
-            "pid": 0
+            "name": "System Idle Process"
         },
         {
-            "memory_percent": 0.04605126706269752,
-            "name": "System",
+            "pid": 4,
             "cpu_percent": 0.0,
-            "pid": 4
+            "memory_percent": 0.047457412621863856,
+            "name": "System"
         },
         {
+            "pid": 236,
+            "cpu_percent": 0.0,
             "memory_percent": 0.4303056508470269,
-            "name": "",
-            "cpu_percent": 0.0,
-            "pid": 236
+            "name": ""
         },
         {
-            "memory_percent": 0.19665950034626337,
-            "name": "Registry",
+            "pid": 280,
             "cpu_percent": 0.0,
-            "pid": 280
+            "memory_percent": 0.19912025507480444,
+            "name": "Registry"
         },
         {
-            "memory_percent": 0.48908755716860536,
-            "name": "LockApp.exe",
+            "pid": 628,
             "cpu_percent": 0.0,
-            "pid": 628
+            "memory_percent": 0.4863505952766566,
+            "name": "LockApp.exe"
         }
     ],
     "top_memory_processes": [
         {
-            "memory_percent": 2.0561363438909757,
-            "name": "MsMpEng.exe",
+            "pid": 21276,
             "cpu_percent": 0.0,
-            "pid": 17908
+            "memory_percent": 2.1498710112546884,
+            "name": "explorer.exe"
         },
         {
-            "memory_percent": 1.612899175848044,
-            "name": "msedge.exe",
+            "pid": 17908,
             "cpu_percent": 0.0,
-            "pid": 11656
+            "memory_percent": 1.848805203140325,
+            "name": "MsMpEng.exe"
         },
         {
-            "memory_percent": 1.4490329987209096,
-            "name": "explorer.exe",
+            "pid": 8092,
             "cpu_percent": 0.0,
-            "pid": 21276
+            "memory_percent": 1.3116827092809122,
+            "name": "msedge.exe"
         },
         {
-            "memory_percent": 1.2706785003859367,
-            "name": "PhoneExperienceHost.exe",
+            "pid": 6740,
             "cpu_percent": 0.0,
-            "pid": 6740
+            "memory_percent": 1.2928755124270626,
+            "name": "PhoneExperienceHost.exe"
         },
         {
-            "memory_percent": 1.0550109252488,
-            "name": "StartMenuExperienceHost.exe",
+            "pid": 1792,
             "cpu_percent": 0.0,
-            "pid": 1792
+            "memory_percent": 1.0579487650777724,
+            "name": "StartMenuExperienceHost.exe"
         }
     ],
     "most_common_apps": [
         [
             "svchost.exe",
-            94
-        ],
-        [
-            "RuntimeBroker.exe",
-            7
+            89
         ],
         [
             "msedge.exe",
@@ -84,6 +80,10 @@
         ],
         [
             "SearchFilterHost.exe",
+            6
+        ],
+        [
+            "RuntimeBroker.exe",
             6
         ],
         [
