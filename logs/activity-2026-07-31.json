@@ -1,86 +1,86 @@
 {
     "date": "2026-07-31",
-    "cpu_percent": 9.4,
-    "memory_percent": 47.3,
+    "cpu_percent": 3.5,
+    "memory_percent": 47.6,
     "disk_usage_percent": 62.4,
-    "boot_time": "2026-07-16T19:25:20.653578",
-    "process_count": 229,
+    "boot_time": "2026-07-16T19:25:20.653619",
+    "process_count": 228,
     "top_cpu_processes": [
         {
-            "cpu_percent": 0.0,
-            "pid": 0,
             "memory_percent": 5.021948425594059e-05,
-            "name": "System Idle Process"
+            "pid": 0,
+            "name": "System Idle Process",
+            "cpu_percent": 0.0
         },
         {
-            "cpu_percent": 0.0,
+            "memory_percent": 0.042134147290734156,
             "pid": 4,
-            "memory_percent": 0.04145618425327895,
-            "name": "System"
+            "name": "System",
+            "cpu_percent": 0.0
         },
         {
-            "cpu_percent": 0.0,
-            "pid": 236,
             "memory_percent": 0.4303056508470269,
-            "name": ""
+            "pid": 236,
+            "name": "",
+            "cpu_percent": 0.0
         },
         {
-            "cpu_percent": 0.0,
+            "memory_percent": 0.26756941211565144,
             "pid": 280,
-            "memory_percent": 0.26563596197179773,
-            "name": "Registry"
+            "name": "Registry",
+            "cpu_percent": 0.0
         },
         {
-            "cpu_percent": 0.0,
+            "memory_percent": 0.5045802680615631,
             "pid": 628,
-            "memory_percent": 0.5088489242233181,
-            "name": "LockApp.exe"
+            "name": "LockApp.exe",
+            "cpu_percent": 0.0
         }
     ],
     "top_memory_processes": [
         {
-            "cpu_percent": 0.0,
+            "memory_percent": 3.838777376524099,
             "pid": 12560,
-            "memory_percent": 3.4875423036380497,
-            "name": "msedge.exe"
+            "name": "msedge.exe",
+            "cpu_percent": 0.0
         },
         {
-            "cpu_percent": 0.0,
+            "memory_percent": 3.384667690139756,
             "pid": 5456,
-            "memory_percent": 2.8646700404116188,
-            "name": "msedge.exe"
+            "name": "msedge.exe",
+            "cpu_percent": 0.0
         },
         {
-            "cpu_percent": 0.0,
+            "memory_percent": 2.499499060644547,
             "pid": 8092,
-            "memory_percent": 2.5236546325716542,
-            "name": "msedge.exe"
+            "name": "msedge.exe",
+            "cpu_percent": 0.0
         },
         {
-            "cpu_percent": 0.0,
+            "memory_percent": 2.0814971834402254,
             "pid": 17908,
-            "memory_percent": 2.109193229007377,
-            "name": "MsMpEng.exe"
+            "name": "MsMpEng.exe",
+            "cpu_percent": 0.0
         },
         {
-            "cpu_percent": 0.0,
+            "memory_percent": 1.9284533051702464,
             "pid": 21276,
-            "memory_percent": 1.9176058965709633,
-            "name": "explorer.exe"
+            "name": "explorer.exe",
+            "cpu_percent": 0.0
         }
     ],
     "most_common_apps": [
         [
             "svchost.exe",
-            89
+            88
         ],
         [
             "msedge.exe",
-            12
+            13
         ],
         [
             "RuntimeBroker.exe",
-            7
+            8
         ],
         [
             "printfilterpipelinesvc.exe",
