@@ -1,72 +1,72 @@
 {
     "date": "2026-08-02",
-    "cpu_percent": 7.0,
-    "memory_percent": 40.5,
+    "cpu_percent": 4.2,
+    "memory_percent": 41.7,
     "disk_usage_percent": 62.3,
-    "boot_time": "2026-07-16T19:25:24.820216",
-    "process_count": 213,
+    "boot_time": "2026-07-16T19:25:24.819015",
+    "process_count": 216,
     "top_cpu_processes": [
         {
+            "cpu_percent": 0.0,
             "pid": 0,
-            "cpu_percent": 0.0,
-            "memory_percent": 5.021948425594059e-05,
-            "name": "System Idle Process"
+            "name": "System Idle Process",
+            "memory_percent": 5.021948425594059e-05
         },
         {
+            "cpu_percent": 0.0,
             "pid": 4,
-            "cpu_percent": 0.0,
-            "memory_percent": 0.04836136333847079,
-            "name": "System"
+            "name": "System",
+            "memory_percent": 0.05029481348232451
         },
         {
+            "cpu_percent": 0.0,
             "pid": 236,
-            "cpu_percent": 0.0,
-            "memory_percent": 0.4303056508470269,
-            "name": ""
+            "name": "",
+            "memory_percent": 0.4303056508470269
         },
         {
+            "cpu_percent": 0.0,
             "pid": 280,
-            "cpu_percent": 0.0,
-            "memory_percent": 0.31763823791882423,
-            "name": "Registry"
+            "name": "Registry",
+            "memory_percent": 0.31788933534010394
         },
         {
-            "pid": 596,
             "cpu_percent": 0.0,
-            "memory_percent": 0.8258343088468151,
-            "name": "WindowsTerminal.exe"
+            "pid": 872,
+            "name": "smss.exe",
+            "memory_percent": 0.007583142122647029
         }
     ],
     "top_memory_processes": [
         {
-            "pid": 4004,
             "cpu_percent": 0.0,
-            "memory_percent": 2.495230404482792,
-            "name": "msedge.exe"
+            "pid": 14324,
+            "name": "msedge.exe",
+            "memory_percent": 2.3150177852303493
         },
         {
-            "pid": 4212,
             "cpu_percent": 0.0,
-            "memory_percent": 2.0850376570802696,
-            "name": "MemCompression"
-        },
-        {
             "pid": 22372,
-            "cpu_percent": 0.0,
-            "memory_percent": 2.0406436329980178,
-            "name": "msedge.exe"
+            "name": "msedge.exe",
+            "memory_percent": 2.30078056144379
         },
         {
+            "cpu_percent": 0.0,
+            "pid": 4212,
+            "name": "MemCompression",
+            "memory_percent": 2.161396382891427
+        },
+        {
+            "cpu_percent": 0.0,
+            "pid": 18916,
+            "name": "msedge.exe",
+            "memory_percent": 1.9680011490218
+        },
+        {
+            "cpu_percent": 0.0,
             "pid": 12848,
-            "cpu_percent": 0.0,
-            "memory_percent": 1.7359118025329703,
-            "name": "explorer.exe"
-        },
-        {
-            "pid": 17908,
-            "cpu_percent": 0.0,
-            "memory_percent": 1.545805944882107,
-            "name": "MsMpEng.exe"
+            "name": "explorer.exe",
+            "memory_percent": 1.7558991572668345
         }
     ],
     "most_common_apps": [
@@ -76,7 +76,7 @@
         ],
         [
             "msedge.exe",
-            11
+            13
         ],
         [
             "printfilterpipelinesvc.exe",
