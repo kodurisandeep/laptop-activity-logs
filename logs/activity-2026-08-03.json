@@ -1,0 +1,94 @@
+{
+    "date": "2026-08-03",
+    "cpu_percent": 2.6,
+    "memory_percent": 38.4,
+    "disk_usage_percent": 62.3,
+    "boot_time": "2026-07-16T19:25:27.034590",
+    "process_count": 206,
+    "top_cpu_processes": [
+        {
+            "pid": 0,
+            "memory_percent": 5.021948425594059e-05,
+            "cpu_percent": 0.0,
+            "name": "System Idle Process"
+        },
+        {
+            "pid": 4,
+            "memory_percent": 0.04369095130266831,
+            "cpu_percent": 0.0,
+            "name": "System"
+        },
+        {
+            "pid": 236,
+            "memory_percent": 0.4303056508470269,
+            "cpu_percent": 0.0,
+            "name": ""
+        },
+        {
+            "pid": 280,
+            "memory_percent": 0.31914482244650244,
+            "cpu_percent": 0.0,
+            "name": "Registry"
+        },
+        {
+            "pid": 444,
+            "memory_percent": 0.005298155589001732,
+            "cpu_percent": 0.0,
+            "name": "MicrosoftEdgeUpdate.exe"
+        }
+    ],
+    "top_memory_processes": [
+        {
+            "pid": 17908,
+            "memory_percent": 2.0890049963364885,
+            "cpu_percent": 0.0,
+            "name": "MsMpEng.exe"
+        },
+        {
+            "pid": 8812,
+            "memory_percent": 1.648479680443378,
+            "cpu_percent": 0.0,
+            "name": "explorer.exe"
+        },
+        {
+            "pid": 15544,
+            "memory_percent": 1.1784755272920298,
+            "cpu_percent": 0.0,
+            "name": "PhoneExperienceHost.exe"
+        },
+        {
+            "pid": 5648,
+            "memory_percent": 1.0708049530472932,
+            "cpu_percent": 0.0,
+            "name": "StartMenuExperienceHost.exe"
+        },
+        {
+            "pid": 19108,
+            "memory_percent": 0.9887714255152144,
+            "cpu_percent": 0.0,
+            "name": "SearchHost.exe"
+        }
+    ],
+    "most_common_apps": [
+        [
+            "svchost.exe",
+            92
+        ],
+        [
+            "printfilterpipelinesvc.exe",
+            6
+        ],
+        [
+            "SearchFilterHost.exe",
+            6
+        ],
+        [
+            "msedgewebview2.exe",
+            6
+        ],
+        [
+            "nvcontainer.exe",
+            3
+        ]
+    ]
+}
