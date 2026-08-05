@@ -1,0 +1,94 @@
+{
+    "date": "2026-08-04",
+    "cpu_percent": 4.3,
+    "memory_percent": 42.2,
+    "disk_usage_percent": 62.3,
+    "boot_time": "2026-07-16T19:25:27.033154",
+    "process_count": 222,
+    "top_cpu_processes": [
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 5.021948425594059e-05,
+            "pid": 0,
+            "name": "System Idle Process"
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 0.0442935851137396,
+            "pid": 4,
+            "name": "System"
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 0.4303056508470269,
+            "pid": 236,
+            "name": ""
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 0.3748884499705965,
+            "pid": 280,
+            "name": "Registry"
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 0.007758910317542821,
+            "pid": 872,
+            "name": "smss.exe"
+        }
+    ],
+    "top_memory_processes": [
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 2.4383066190786833,
+            "pid": 17908,
+            "name": "MsMpEng.exe"
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 1.6110410549305743,
+            "pid": 19136,
+            "name": "msedge.exe"
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 1.563156776692535,
+            "pid": 23488,
+            "name": "msedge.exe"
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 1.3256186161619359,
+            "pid": 14380,
+            "name": "explorer.exe"
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 1.1687831668306332,
+            "pid": 1612,
+            "name": "msedge.exe"
+        }
+    ],
+    "most_common_apps": [
+        [
+            "svchost.exe",
+            94
+        ],
+        [
+            "msedge.exe",
+            10
+        ],
+        [
+            "msedgewebview2.exe",
+            6
+        ],
+        [
+            "printfilterpipelinesvc.exe",
+            6
+        ],
+        [
+            "SearchFilterHost.exe",
+            6
+        ]
+    ]
+}
