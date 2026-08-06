@@ -1,89 +1,89 @@
 {
     "date": "2026-08-05",
-    "cpu_percent": 14.3,
-    "memory_percent": 44.1,
+    "cpu_percent": 30.8,
+    "memory_percent": 45.4,
     "disk_usage_percent": 62.2,
-    "boot_time": "2026-07-16T19:25:28.374877",
-    "process_count": 224,
+    "boot_time": "2026-07-16T19:25:28.375207",
+    "process_count": 235,
     "top_cpu_processes": [
         {
-            "name": "System Idle Process",
+            "cpu_percent": 0.0,
             "memory_percent": 5.021948425594059e-05,
-            "pid": 0,
-            "cpu_percent": 0.0
+            "name": "System Idle Process",
+            "pid": 0
         },
         {
+            "cpu_percent": 0.0,
+            "memory_percent": 0.028424228088862375,
             "name": "System",
-            "memory_percent": 0.02734450917735965,
-            "pid": 4,
-            "cpu_percent": 0.0
+            "pid": 4
         },
         {
-            "name": "",
+            "cpu_percent": 0.0,
             "memory_percent": 0.4303056508470269,
-            "pid": 236,
-            "cpu_percent": 0.0
+            "name": "",
+            "pid": 236
         },
         {
+            "cpu_percent": 0.0,
+            "memory_percent": 0.3122647531034386,
             "name": "Registry",
-            "memory_percent": 0.31153657058172746,
-            "pid": 280,
-            "cpu_percent": 0.0
+            "pid": 280
         },
         {
+            "cpu_percent": 0.0,
+            "memory_percent": 0.3611785307687247,
             "name": "nvcontainer.exe",
-            "memory_percent": 0.36680311300539004,
-            "pid": 792,
-            "cpu_percent": 0.0
+            "pid": 792
         }
     ],
     "top_memory_processes": [
         {
+            "cpu_percent": 0.0,
+            "memory_percent": 2.3833162838184285,
+            "name": "msedge.exe",
+            "pid": 8460
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 2.1282515232825063,
             "name": "MsMpEng.exe",
-            "memory_percent": 2.1466569642623083,
-            "pid": 17908,
-            "cpu_percent": 0.0
+            "pid": 17908
         },
         {
+            "cpu_percent": 0.0,
+            "memory_percent": 1.9167772750807406,
             "name": "msedge.exe",
-            "memory_percent": 2.0317798940268443,
-            "pid": 7716,
-            "cpu_percent": 0.0
+            "pid": 12496
         },
         {
+            "cpu_percent": 0.0,
+            "memory_percent": 1.7389500813304548,
             "name": "msedge.exe",
-            "memory_percent": 1.8497844830833154,
-            "pid": 12496,
-            "cpu_percent": 0.0
+            "pid": 9896
         },
         {
+            "cpu_percent": 0.0,
+            "memory_percent": 1.5570802190975659,
             "name": "explorer.exe",
-            "memory_percent": 1.54861823600044,
-            "pid": 15048,
-            "cpu_percent": 0.0
-        },
-        {
-            "name": "msedge.exe",
-            "memory_percent": 1.4199559173367202,
-            "pid": 9896,
-            "cpu_percent": 0.0
+            "pid": 15048
         }
     ],
     "most_common_apps": [
         [
             "svchost.exe",
-            91
+            90
         ],
         [
             "msedge.exe",
             13
         ],
         [
-            "printfilterpipelinesvc.exe",
-            6
+            "RuntimeBroker.exe",
+            7
         ],
         [
-            "RuntimeBroker.exe",
+            "printfilterpipelinesvc.exe",
             6
         ],
         [
