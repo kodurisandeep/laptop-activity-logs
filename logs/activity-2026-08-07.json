@@ -1,82 +1,82 @@
 {
     "date": "2026-08-07",
-    "cpu_percent": 70.9,
-    "memory_percent": 39.2,
-    "disk_usage_percent": 63.1,
-    "boot_time": "2026-07-16T19:25:30.689919",
-    "process_count": 231,
+    "cpu_percent": 6.2,
+    "memory_percent": 43.2,
+    "disk_usage_percent": 62.1,
+    "boot_time": "2026-07-16T19:25:30.692784",
+    "process_count": 222,
     "top_cpu_processes": [
         {
+            "name": "System Idle Process",
             "memory_percent": 5.021948425594059e-05,
             "pid": 0,
-            "cpu_percent": 0.0,
-            "name": "System Idle Process"
+            "cpu_percent": 0.0
         },
         {
-            "memory_percent": 0.043640731818412375,
+            "name": "System",
+            "memory_percent": 0.043866719497564106,
             "pid": 4,
-            "cpu_percent": 0.0,
-            "name": "System"
+            "cpu_percent": 0.0
         },
         {
+            "name": "",
             "memory_percent": 0.4303056508470269,
             "pid": 236,
-            "cpu_percent": 0.0,
-            "name": ""
+            "cpu_percent": 0.0
         },
         {
-            "memory_percent": 0.3097788886327695,
+            "name": "Registry",
+            "memory_percent": 0.3141479837630363,
             "pid": 280,
-            "cpu_percent": 0.0,
-            "name": "Registry"
+            "cpu_percent": 0.0
         },
         {
-            "memory_percent": 0.74548313403731,
+            "name": "msedgewebview2.exe",
+            "memory_percent": 0.7395070154108532,
             "pid": 436,
-            "cpu_percent": 0.0,
-            "name": "msedgewebview2.exe"
+            "cpu_percent": 0.0
         }
     ],
     "top_memory_processes": [
         {
-            "memory_percent": 1.7934633314902784,
-            "pid": 4212,
-            "cpu_percent": 0.0,
-            "name": "MemCompression"
+            "name": "msedge.exe",
+            "memory_percent": 2.173248181175829,
+            "pid": 17724,
+            "cpu_percent": 0.0
         },
         {
-            "memory_percent": 1.7435953836241291,
+            "name": "msedge.exe",
+            "memory_percent": 1.9540150226565203,
+            "pid": 5208,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "MsMpEng.exe",
+            "memory_percent": 1.908516169920638,
             "pid": 17908,
-            "cpu_percent": 0.0,
-            "name": "MsMpEng.exe"
+            "cpu_percent": 0.0
         },
         {
-            "memory_percent": 1.593464235440995,
+            "name": "msedge.exe",
+            "memory_percent": 1.6743929343194432,
+            "pid": 17180,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "explorer.exe",
+            "memory_percent": 1.5295097222410545,
             "pid": 3436,
-            "cpu_percent": 0.0,
-            "name": "explorer.exe"
-        },
-        {
-            "memory_percent": 1.4735401070378087,
-            "pid": 4360,
-            "cpu_percent": 0.0,
-            "name": "msedge.exe"
-        },
-        {
-            "memory_percent": 1.2439617347617762,
-            "pid": 20576,
-            "cpu_percent": 0.0,
-            "name": "PhoneExperienceHost.exe"
+            "cpu_percent": 0.0
         }
     ],
     "most_common_apps": [
         [
             "svchost.exe",
-            91
+            86
         ],
         [
             "msedge.exe",
-            7
+            14
         ],
         [
             "RuntimeBroker.exe",
