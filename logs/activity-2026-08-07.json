@@ -1,78 +1,78 @@
 {
     "date": "2026-08-07",
-    "cpu_percent": 36.6,
-    "memory_percent": 96.5,
+    "cpu_percent": 13.1,
+    "memory_percent": 96.2,
     "disk_usage_percent": 62.2,
-    "boot_time": "2026-07-16T19:25:30.689488",
+    "boot_time": "2026-07-16T19:25:30.690804",
     "process_count": 234,
     "top_cpu_processes": [
         {
-            "name": "System Idle Process",
+            "memory_percent": 5.021948425594059e-05,
             "pid": 0,
             "cpu_percent": 0.0,
-            "memory_percent": 5.021948425594059e-05
+            "name": "System Idle Process"
         },
         {
-            "name": "System",
+            "memory_percent": 0.053282872795552966,
             "pid": 4,
             "cpu_percent": 0.0,
-            "memory_percent": 0.053282872795552966
+            "name": "System"
         },
         {
-            "name": "",
+            "memory_percent": 0.4303056508470269,
             "pid": 236,
             "cpu_percent": 0.0,
-            "memory_percent": 0.4303056508470269
+            "name": ""
         },
         {
-            "name": "Registry",
+            "memory_percent": 0.18842350492828908,
             "pid": 280,
             "cpu_percent": 0.0,
-            "memory_percent": 0.1883983951861611
+            "name": "Registry"
         },
         {
-            "name": "msedge.exe",
+            "memory_percent": 0.03748884499705965,
             "pid": 432,
             "cpu_percent": 0.0,
-            "memory_percent": 0.03748884499705965
+            "name": "msedge.exe"
         }
     ],
     "top_memory_processes": [
         {
-            "name": "qemu-system-x86_64.exe",
+            "memory_percent": 26.31684276128821,
             "pid": 2544,
             "cpu_percent": 0.0,
-            "memory_percent": 26.316441005414166
+            "name": "qemu-system-x86_64.exe"
         },
         {
-            "name": "studio64.exe",
+            "memory_percent": 19.707632206558763,
             "pid": 21460,
             "cpu_percent": 0.0,
-            "memory_percent": 19.69221482489219
+            "name": "studio64.exe"
         },
         {
-            "name": "java.exe",
+            "memory_percent": 8.358254752395345,
             "pid": 10660,
             "cpu_percent": 0.0,
-            "memory_percent": 8.356723058125539
+            "name": "java.exe"
         },
         {
-            "name": "java.exe",
+            "memory_percent": 5.2826879878509025,
             "pid": 16940,
             "cpu_percent": 0.0,
-            "memory_percent": 5.2828888657879265
+            "name": "java.exe"
         },
         {
-            "name": "MemCompression",
+            "memory_percent": 2.4378797534625076,
             "pid": 4212,
             "cpu_percent": 0.0,
-            "memory_percent": 2.2749928562783643
+            "name": "MemCompression"
         }
     ],
     "most_common_apps": [
         [
             "svchost.exe",
-            88
+            89
         ],
         [
             "msedge.exe",
