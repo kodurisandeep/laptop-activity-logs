@@ -1,78 +1,78 @@
 {
     "date": "2026-08-08",
-    "cpu_percent": 23.5,
-    "memory_percent": 42.0,
+    "cpu_percent": 8.8,
+    "memory_percent": 40.9,
     "disk_usage_percent": 61.5,
-    "boot_time": "2026-07-16T19:25:32.949438",
-    "process_count": 229,
+    "boot_time": "2026-07-16T19:25:32.949144",
+    "process_count": 227,
     "top_cpu_processes": [
         {
-            "name": "System Idle Process",
             "memory_percent": 5.021948425594059e-05,
+            "pid": 0,
             "cpu_percent": 0.0,
-            "pid": 0
+            "name": "System Idle Process"
         },
         {
-            "name": "System",
-            "memory_percent": 0.09481438627521582,
+            "memory_percent": 0.09496504472798366,
+            "pid": 4,
             "cpu_percent": 0.0,
-            "pid": 4
+            "name": "System"
         },
         {
-            "name": "",
             "memory_percent": 0.4303056508470269,
+            "pid": 236,
             "cpu_percent": 0.0,
-            "pid": 236
+            "name": ""
         },
         {
-            "name": "Registry",
-            "memory_percent": 0.26114131813089103,
+            "memory_percent": 0.2568726619691361,
+            "pid": 280,
             "cpu_percent": 0.0,
-            "pid": 280
+            "name": "Registry"
         },
         {
-            "name": "LenovoVantage-(SmartPanelAddin).exe",
-            "memory_percent": 0.2926289347593658,
+            "memory_percent": 0.6595827062175237,
+            "pid": 424,
             "cpu_percent": 0.0,
-            "pid": 588
+            "name": "msedge.exe"
         }
     ],
     "top_memory_processes": [
         {
-            "name": "explorer.exe",
-            "memory_percent": 1.9216736747956944,
+            "memory_percent": 2.1998142883472216,
+            "pid": 25996,
             "cpu_percent": 0.0,
-            "pid": 25996
+            "name": "explorer.exe"
         },
         {
-            "name": "MsMpEng.exe",
-            "memory_percent": 1.8212849257680692,
+            "memory_percent": 1.7010343707172197,
+            "pid": 17908,
             "cpu_percent": 0.0,
-            "pid": 17908
+            "name": "MsMpEng.exe"
         },
         {
-            "name": "MemCompression",
-            "memory_percent": 1.6249267423273417,
+            "memory_percent": 1.4845883935741158,
+            "pid": 4212,
             "cpu_percent": 0.0,
-            "pid": 4212
+            "name": "MemCompression"
         },
         {
-            "name": "msedge.exe",
-            "memory_percent": 1.2825051889282106,
+            "memory_percent": 1.3554992092942204,
+            "pid": 14644,
             "cpu_percent": 0.0,
-            "pid": 24700
+            "name": "msedge.exe"
         },
         {
-            "name": "PhoneExperienceHost.exe",
-            "memory_percent": 1.098852535004236,
+            "memory_percent": 1.1045022269830294,
+            "pid": 7668,
             "cpu_percent": 0.0,
-            "pid": 7668
+            "name": "PhoneExperienceHost.exe"
         }
     ],
     "most_common_apps": [
         [
             "svchost.exe",
-            93
+            91
         ],
         [
             "msedge.exe",
@@ -80,7 +80,7 @@
         ],
         [
             "RuntimeBroker.exe",
-            6
+            7
         ],
         [
             "printfilterpipelinesvc.exe",
