@@ -1,72 +1,72 @@
 {
     "date": "2026-08-11",
-    "cpu_percent": 26.0,
-    "memory_percent": 46.3,
+    "cpu_percent": 16.9,
+    "memory_percent": 46.2,
     "disk_usage_percent": 61.1,
-    "boot_time": "2026-07-16T19:25:37.004255",
-    "process_count": 242,
+    "boot_time": "2026-07-16T19:25:37.020134",
+    "process_count": 243,
     "top_cpu_processes": [
         {
-            "cpu_percent": 0.0,
-            "pid": 0,
             "name": "System Idle Process",
+            "pid": 0,
+            "cpu_percent": 0.0,
             "memory_percent": 5.021948425594059e-05
         },
         {
-            "cpu_percent": 0.0,
-            "pid": 4,
             "name": "System",
+            "pid": 4,
+            "cpu_percent": 0.0,
             "memory_percent": 0.043640731818412375
         },
         {
-            "cpu_percent": 0.0,
-            "pid": 236,
             "name": "",
+            "pid": 236,
+            "cpu_percent": 0.0,
             "memory_percent": 0.4303056508470269
         },
         {
-            "cpu_percent": 0.0,
-            "pid": 280,
             "name": "Registry",
-            "memory_percent": 0.2227485224172245
+            "pid": 280,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.22277363215935245
         },
         {
-            "cpu_percent": 0.0,
-            "pid": 460,
             "name": "PhoneExperienceHost.exe",
-            "memory_percent": 1.2969181809096657
+            "pid": 460,
+            "cpu_percent": 0.0,
+            "memory_percent": 1.2970688393624337
         }
     ],
     "top_memory_processes": [
         {
-            "cpu_percent": 0.0,
-            "pid": 2064,
             "name": "explorer.exe",
-            "memory_percent": 2.164961966273599
+            "pid": 2064,
+            "cpu_percent": 0.0,
+            "memory_percent": 2.1670962943544763
         },
         {
-            "cpu_percent": 0.0,
-            "pid": 17908,
             "name": "MsMpEng.exe",
-            "memory_percent": 2.1530599485049406
+            "pid": 17908,
+            "cpu_percent": 0.0,
+            "memory_percent": 2.1492432677014897
         },
         {
-            "cpu_percent": 0.0,
+            "name": "msedge.exe",
             "pid": 11956,
-            "name": "msedge.exe",
-            "memory_percent": 1.636401894479824
+            "cpu_percent": 0.0,
+            "memory_percent": 1.634794870983634
         },
         {
-            "cpu_percent": 0.0,
+            "name": "msedge.exe",
             "pid": 8184,
-            "name": "msedge.exe",
-            "memory_percent": 1.5088192947276071
+            "cpu_percent": 0.0,
+            "memory_percent": 1.4712802302462915
         },
         {
-            "cpu_percent": 0.0,
-            "pid": 460,
             "name": "PhoneExperienceHost.exe",
-            "memory_percent": 1.2969181809096657
+            "pid": 460,
+            "cpu_percent": 0.0,
+            "memory_percent": 1.2970688393624337
         }
     ],
     "most_common_apps": [
