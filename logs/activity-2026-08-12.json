@@ -1,82 +1,82 @@
 {
     "date": "2026-08-12",
-    "cpu_percent": 36.0,
-    "memory_percent": 48.9,
-    "disk_usage_percent": 61.9,
-    "boot_time": "2026-08-13T00:14:05.212741",
-    "process_count": 204,
+    "cpu_percent": 7.3,
+    "memory_percent": 43.8,
+    "disk_usage_percent": 61.4,
+    "boot_time": "2026-08-13T00:14:05.222797",
+    "process_count": 221,
     "top_cpu_processes": [
         {
+            "pid": 0,
             "memory_percent": 5.021948425594059e-05,
-            "name": "System Idle Process",
             "cpu_percent": 0.0,
-            "pid": 0
+            "name": "System Idle Process"
         },
         {
-            "memory_percent": 0.034852322073622766,
-            "name": "System",
+            "pid": 4,
+            "memory_percent": 0.036283577374917074,
             "cpu_percent": 0.0,
-            "pid": 4
+            "name": "System"
         },
         {
+            "pid": 236,
             "memory_percent": 0.4238524471201386,
-            "name": "",
             "cpu_percent": 0.0,
-            "pid": 236
+            "name": ""
         },
         {
-            "memory_percent": 0.3557799362112111,
-            "name": "Registry",
+            "pid": 280,
+            "memory_percent": 0.34176870010380367,
             "cpu_percent": 0.0,
-            "pid": 280
+            "name": "Registry"
         },
         {
+            "pid": 964,
             "memory_percent": 0.010998067052050989,
-            "name": "smss.exe",
             "cpu_percent": 0.0,
-            "pid": 964
+            "name": "smss.exe"
         }
     ],
     "top_memory_processes": [
         {
-            "memory_percent": 5.316134164365359,
-            "name": "msedge.exe",
+            "pid": 9620,
+            "memory_percent": 2.8669299172031364,
             "cpu_percent": 0.0,
-            "pid": 7724
+            "name": "explorer.exe"
         },
         {
-            "memory_percent": 2.795367152138421,
-            "name": "msedge.exe",
+            "pid": 5152,
+            "memory_percent": 2.467735236852665,
             "cpu_percent": 0.0,
-            "pid": 17484
+            "name": "MsMpEng.exe"
         },
         {
-            "memory_percent": 2.64729500280978,
-            "name": "explorer.exe",
+            "pid": 16472,
+            "memory_percent": 1.7569537664362096,
             "cpu_percent": 0.0,
-            "pid": 9620
+            "name": "msedge.exe"
         },
         {
-            "memory_percent": 2.519335756925644,
-            "name": "msedge.exe",
+            "pid": 19448,
+            "memory_percent": 1.3059827978178629,
             "cpu_percent": 0.0,
-            "pid": 16480
+            "name": "PhoneExperienceHost.exe"
         },
         {
-            "memory_percent": 2.0130480263993786,
-            "name": "MsMpEng.exe",
+            "pid": 3620,
+            "memory_percent": 1.3057065906544552,
             "cpu_percent": 0.0,
-            "pid": 5152
+            "name": "msedge.exe"
         }
     ],
     "most_common_apps": [
         [
             "svchost.exe",
-            79
+            85
         ],
         [
             "msedge.exe",
-            17
+            11
         ],
         [
             "RuntimeBroker.exe",
@@ -87,8 +87,8 @@
             6
         ],
         [
-            "conhost.exe",
-            4
+            "mscopilot.exe",
+            5
         ]
     ]
 }
