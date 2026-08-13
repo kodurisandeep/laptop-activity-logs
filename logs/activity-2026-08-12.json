@@ -1,0 +1,94 @@
+{
+    "date": "2026-08-12",
+    "cpu_percent": 35.9,
+    "memory_percent": 46.7,
+    "disk_usage_percent": 62.2,
+    "boot_time": "2026-08-13T00:14:05.215591",
+    "process_count": 205,
+    "top_cpu_processes": [
+        {
+            "cpu_percent": 0.0,
+            "name": "System Idle Process",
+            "memory_percent": 5.021948425594059e-05,
+            "pid": 0
+        },
+        {
+            "cpu_percent": 0.0,
+            "name": "System",
+            "memory_percent": 0.0320400309552901,
+            "pid": 4
+        },
+        {
+            "cpu_percent": 0.0,
+            "name": "",
+            "memory_percent": 0.42302382562991553,
+            "pid": 236
+        },
+        {
+            "cpu_percent": 0.0,
+            "name": "Registry",
+            "memory_percent": 0.29250338604872594,
+            "pid": 280
+        },
+        {
+            "cpu_percent": 0.0,
+            "name": "smss.exe",
+            "memory_percent": 0.01109850602056287,
+            "pid": 964
+        }
+    ],
+    "top_memory_processes": [
+        {
+            "cpu_percent": 0.0,
+            "name": "MsMpEng.exe",
+            "memory_percent": 2.6283371475031627,
+            "pid": 5152
+        },
+        {
+            "cpu_percent": 0.0,
+            "name": "msedge.exe",
+            "memory_percent": 1.8930987882540644,
+            "pid": 18188
+        },
+        {
+            "cpu_percent": 0.0,
+            "name": "msedge.exe",
+            "memory_percent": 1.6232694993468955,
+            "pid": 16480
+        },
+        {
+            "cpu_percent": 0.0,
+            "name": "explorer.exe",
+            "memory_percent": 1.5555234150856319,
+            "pid": 9620
+        },
+        {
+            "cpu_percent": 0.0,
+            "name": "msedge.exe",
+            "memory_percent": 1.468141512480295,
+            "pid": 17484
+        }
+    ],
+    "most_common_apps": [
+        [
+            "svchost.exe",
+            79
+        ],
+        [
+            "msedge.exe",
+            19
+        ],
+        [
+            "msedgewebview2.exe",
+            6
+        ],
+        [
+            "RuntimeBroker.exe",
+            5
+        ],
+        [
+            "nvcontainer.exe",
+            3
+        ]
+    ]
+}
