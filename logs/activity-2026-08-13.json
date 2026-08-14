@@ -1,0 +1,94 @@
+{
+    "date": "2026-08-13",
+    "cpu_percent": 15.9,
+    "memory_percent": 40.9,
+    "disk_usage_percent": 61.4,
+    "boot_time": "2026-08-13T00:14:05.212709",
+    "process_count": 201,
+    "top_cpu_processes": [
+        {
+            "pid": 0,
+            "memory_percent": 5.021948425594059e-05,
+            "cpu_percent": 0.0,
+            "name": "System Idle Process"
+        },
+        {
+            "pid": 4,
+            "memory_percent": 0.041531513479662864,
+            "cpu_percent": 0.0,
+            "name": "System"
+        },
+        {
+            "pid": 236,
+            "memory_percent": 0.4238524471201386,
+            "cpu_percent": 0.0,
+            "name": ""
+        },
+        {
+            "pid": 276,
+            "memory_percent": 0.33257853448496655,
+            "cpu_percent": 0.0,
+            "name": "MessagingPlugin.exe"
+        },
+        {
+            "pid": 280,
+            "memory_percent": 0.3655727356411195,
+            "cpu_percent": 0.0,
+            "name": "Registry"
+        }
+    ],
+    "top_memory_processes": [
+        {
+            "pid": 5152,
+            "memory_percent": 2.7343504787674533,
+            "cpu_percent": 0.0,
+            "name": "MsMpEng.exe"
+        },
+        {
+            "pid": 13488,
+            "memory_percent": 1.7306638664282246,
+            "cpu_percent": 0.0,
+            "name": "msedge.exe"
+        },
+        {
+            "pid": 9164,
+            "memory_percent": 1.6869226956413002,
+            "cpu_percent": 0.0,
+            "name": "explorer.exe"
+        },
+        {
+            "pid": 21596,
+            "memory_percent": 1.4968419477325652,
+            "cpu_percent": 0.0,
+            "name": "msedge.exe"
+        },
+        {
+            "pid": 4484,
+            "memory_percent": 1.219002651086574,
+            "cpu_percent": 0.0,
+            "name": "msedge.exe"
+        }
+    ],
+    "most_common_apps": [
+        [
+            "svchost.exe",
+            86
+        ],
+        [
+            "msedge.exe",
+            10
+        ],
+        [
+            "msedgewebview2.exe",
+            6
+        ],
+        [
+            "RuntimeBroker.exe",
+            5
+        ],
+        [
+            "WmiPrvSE.exe",
+            3
+        ]
+    ]
+}
