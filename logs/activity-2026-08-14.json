@@ -1,0 +1,94 @@
+{
+    "date": "2026-08-14",
+    "cpu_percent": 22.2,
+    "memory_percent": 41.6,
+    "disk_usage_percent": 61.1,
+    "boot_time": "2026-08-13T00:14:05.212398",
+    "process_count": 190,
+    "top_cpu_processes": [
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 5.021948425594059e-05,
+            "name": "System Idle Process",
+            "pid": 0
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 0.030985421785915342,
+            "name": "System",
+            "pid": 4
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 0.4238524471201386,
+            "name": "",
+            "pid": 236
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 0.37915710613235143,
+            "name": "MessagingPlugin.exe",
+            "pid": 276
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 0.2746252496536111,
+            "name": "Registry",
+            "pid": 280
+        }
+    ],
+    "top_memory_processes": [
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 2.6846582990962,
+            "name": "explorer.exe",
+            "pid": 9164
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 2.612894656094461,
+            "name": "MsMpEng.exe",
+            "pid": 5152
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 1.3644884969760338,
+            "name": "PhoneExperienceHost.exe",
+            "pid": 2620
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 1.357533098406586,
+            "name": "msedge.exe",
+            "pid": 16864
+        },
+        {
+            "cpu_percent": 0.0,
+            "memory_percent": 1.1331273330089155,
+            "name": "StartMenuExperienceHost.exe",
+            "pid": 11040
+        }
+    ],
+    "most_common_apps": [
+        [
+            "svchost.exe",
+            78
+        ],
+        [
+            "msedge.exe",
+            7
+        ],
+        [
+            "msedgewebview2.exe",
+            6
+        ],
+        [
+            "RuntimeBroker.exe",
+            6
+        ],
+        [
+            "nvcontainer.exe",
+            3
+        ]
+    ]
+}
