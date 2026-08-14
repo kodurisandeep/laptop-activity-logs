@@ -1,78 +1,78 @@
 {
     "date": "2026-08-13",
-    "cpu_percent": 15.9,
-    "memory_percent": 40.9,
-    "disk_usage_percent": 61.4,
-    "boot_time": "2026-08-13T00:14:05.212709",
-    "process_count": 201,
+    "cpu_percent": 24.3,
+    "memory_percent": 44.4,
+    "disk_usage_percent": 61.1,
+    "boot_time": "2026-08-13T00:14:05.212019",
+    "process_count": 207,
     "top_cpu_processes": [
         {
-            "pid": 0,
+            "cpu_percent": 0.0,
+            "name": "System Idle Process",
             "memory_percent": 5.021948425594059e-05,
-            "cpu_percent": 0.0,
-            "name": "System Idle Process"
+            "pid": 0
         },
         {
-            "pid": 4,
-            "memory_percent": 0.041531513479662864,
             "cpu_percent": 0.0,
-            "name": "System"
+            "name": "System",
+            "memory_percent": 0.02957927622674901,
+            "pid": 4
         },
         {
-            "pid": 236,
+            "cpu_percent": 0.0,
+            "name": "",
             "memory_percent": 0.4238524471201386,
-            "cpu_percent": 0.0,
-            "name": ""
+            "pid": 236
         },
         {
-            "pid": 276,
-            "memory_percent": 0.33257853448496655,
             "cpu_percent": 0.0,
-            "name": "MessagingPlugin.exe"
+            "name": "MessagingPlugin.exe",
+            "memory_percent": 0.3792073256166074,
+            "pid": 276
         },
         {
-            "pid": 280,
-            "memory_percent": 0.3655727356411195,
             "cpu_percent": 0.0,
-            "name": "Registry"
+            "name": "Registry",
+            "memory_percent": 0.19766389003138216,
+            "pid": 280
         }
     ],
     "top_memory_processes": [
         {
-            "pid": 5152,
-            "memory_percent": 2.7343504787674533,
             "cpu_percent": 0.0,
-            "name": "MsMpEng.exe"
+            "name": "MsMpEng.exe",
+            "memory_percent": 2.8724540604712896,
+            "pid": 5152
         },
         {
-            "pid": 13488,
-            "memory_percent": 1.7306638664282246,
             "cpu_percent": 0.0,
-            "name": "msedge.exe"
+            "name": "explorer.exe",
+            "memory_percent": 1.7993139014060953,
+            "pid": 9164
         },
         {
-            "pid": 9164,
-            "memory_percent": 1.6869226956413002,
             "cpu_percent": 0.0,
-            "name": "explorer.exe"
+            "name": "msedge.exe",
+            "memory_percent": 1.717531471295296,
+            "pid": 9444
         },
         {
-            "pid": 21596,
-            "memory_percent": 1.4968419477325652,
             "cpu_percent": 0.0,
-            "name": "msedge.exe"
+            "name": "PhoneExperienceHost.exe",
+            "memory_percent": 1.3727998216203918,
+            "pid": 2620
         },
         {
-            "pid": 4484,
-            "memory_percent": 1.219002651086574,
             "cpu_percent": 0.0,
-            "name": "msedge.exe"
+            "name": "msedge.exe",
+            "memory_percent": 1.3243129095712811,
+            "pid": 16108
         }
     ],
     "most_common_apps": [
         [
             "svchost.exe",
-            86
+            82
         ],
         [
             "msedge.exe",
@@ -87,7 +87,7 @@
             5
         ],
         [
-            "WmiPrvSE.exe",
+            "nvcontainer.exe",
             3
         ]
     ]
