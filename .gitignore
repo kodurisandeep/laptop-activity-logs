@@ -1,0 +1,8 @@
+# Ignore local helper scripts
+scripts/collect_activity.py
+
+# Ignore local logs (kept in repo per user request) - leave logs/ tracked
+
+# Ignore Python cache
+__pycache__/
+*.pyc
