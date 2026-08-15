@@ -1,1 +1,284 @@
-{"date": "2026-08-14", "cpu_percent": 17.3, "memory_percent": 54.8, "disk_usage_percent": 61.0, "boot_time": "2026-08-13T00:14:08.370215", "process_count": 212, "top_cpu_processes": [{"cpu_percent": 0.0, "name": "System Idle Process", "pid": 0, "memory_percent": 5.021948425594059e-05}, {"cpu_percent": 0.0, "name": "System", "pid": 4, "memory_percent": 0.03568094356384579}, {"cpu_percent": 0.0, "name": "", "pid": 236, "memory_percent": 0.4238524471201386}, {"cpu_percent": 0.0, "name": "Registry", "pid": 280, "memory_percent": 0.31171233877662324}, {"cpu_percent": 0.0, "name": "RuntimeBroker.exe", "pid": 504, "memory_percent": 0.15532886480362423}], "top_memory_processes": [{"cpu_percent": 0.0, "name": "Code.exe", "pid": 18848, "memory_percent": 3.108284758537187}, {"cpu_percent": 0.0, "name": "MsMpEng.exe", "pid": 5152, "memory_percent": 3.0535204109560836}, {"cpu_percent": 0.0, "name": "explorer.exe", "pid": 19728, "memory_percent": 2.9960944307094155}, {"cpu_percent": 0.0, "name": "Code.exe", "pid": 5700, "memory_percent": 2.8064907679011117}, {"cpu_percent": 0.0, "name": "Code.exe", "pid": 14960, "memory_percent": 1.8183721956812247}], "most_common_apps": [["svchost.exe", 83], ["Code.exe", 11], ["msedge.exe", 10], ["RuntimeBroker.exe", 6], ["msedgewebview2.exe", 6]]}
+[
+    {
+        "date": "2026-08-14",
+        "cpu_percent": 17.3,
+        "memory_percent": 54.8,
+        "disk_usage_percent": 61.0,
+        "boot_time": "2026-08-13T00:14:08.370215",
+        "process_count": 212,
+        "top_cpu_processes": [
+            {
+                "cpu_percent": 0.0,
+                "name": "System Idle Process",
+                "pid": 0,
+                "memory_percent": 5.021948425594059e-05
+            },
+            {
+                "cpu_percent": 0.0,
+                "name": "System",
+                "pid": 4,
+                "memory_percent": 0.03568094356384579
+            },
+            {
+                "cpu_percent": 0.0,
+                "name": "",
+                "pid": 236,
+                "memory_percent": 0.4238524471201386
+            },
+            {
+                "cpu_percent": 0.0,
+                "name": "Registry",
+                "pid": 280,
+                "memory_percent": 0.31171233877662324
+            },
+            {
+                "cpu_percent": 0.0,
+                "name": "RuntimeBroker.exe",
+                "pid": 504,
+                "memory_percent": 0.15532886480362423
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "cpu_percent": 0.0,
+                "name": "Code.exe",
+                "pid": 18848,
+                "memory_percent": 3.108284758537187
+            },
+            {
+                "cpu_percent": 0.0,
+                "name": "MsMpEng.exe",
+                "pid": 5152,
+                "memory_percent": 3.0535204109560836
+            },
+            {
+                "cpu_percent": 0.0,
+                "name": "explorer.exe",
+                "pid": 19728,
+                "memory_percent": 2.9960944307094155
+            },
+            {
+                "cpu_percent": 0.0,
+                "name": "Code.exe",
+                "pid": 5700,
+                "memory_percent": 2.8064907679011117
+            },
+            {
+                "cpu_percent": 0.0,
+                "name": "Code.exe",
+                "pid": 14960,
+                "memory_percent": 1.8183721956812247
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                83
+            ],
+            [
+                "Code.exe",
+                11
+            ],
+            [
+                "msedge.exe",
+                10
+            ],
+            [
+                "RuntimeBroker.exe",
+                6
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ]
+        ]
+    },
+    {
+        "date": "2026-08-14",
+        "cpu_percent": 24.5,
+        "memory_percent": 55.8,
+        "disk_usage_percent": 61.0,
+        "boot_time": "2026-08-13T00:14:08.362497",
+        "process_count": 210,
+        "top_cpu_processes": [
+            {
+                "pid": 0,
+                "cpu_percent": 0.0,
+                "memory_percent": 5.021948425594059e-05,
+                "name": "System Idle Process"
+            },
+            {
+                "pid": 4,
+                "cpu_percent": 0.0,
+                "memory_percent": 0.03583160201661361,
+                "name": "System"
+            },
+            {
+                "pid": 236,
+                "cpu_percent": 0.0,
+                "memory_percent": 0.4238524471201386,
+                "name": ""
+            },
+            {
+                "pid": 280,
+                "cpu_percent": 0.0,
+                "memory_percent": 0.3120638751664148,
+                "name": "Registry"
+            },
+            {
+                "pid": 504,
+                "cpu_percent": 0.0,
+                "memory_percent": 0.15532886480362423,
+                "name": "RuntimeBroker.exe"
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "pid": 5700,
+                "cpu_percent": 0.0,
+                "memory_percent": 3.443575145171974,
+                "name": "Code.exe"
+            },
+            {
+                "pid": 5152,
+                "cpu_percent": 0.0,
+                "memory_percent": 3.0646189169766465,
+                "name": "MsMpEng.exe"
+            },
+            {
+                "pid": 19728,
+                "cpu_percent": 0.0,
+                "memory_percent": 3.033432617253707,
+                "name": "explorer.exe"
+            },
+            {
+                "pid": 18848,
+                "cpu_percent": 0.0,
+                "memory_percent": 2.9662891668035147,
+                "name": "Code.exe"
+            },
+            {
+                "pid": 14960,
+                "cpu_percent": 0.0,
+                "memory_percent": 1.925415026372762,
+                "name": "Code.exe"
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                80
+            ],
+            [
+                "Code.exe",
+                13
+            ],
+            [
+                "msedge.exe",
+                10
+            ],
+            [
+                "RuntimeBroker.exe",
+                6
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ]
+        ]
+    },
+    {
+        "date": "2026-08-14",
+        "cpu_percent": 22.9,
+        "memory_percent": 60.2,
+        "disk_usage_percent": 61.1,
+        "boot_time": "2026-08-13T00:14:08.377256",
+        "process_count": 233,
+        "top_cpu_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 5.021948425594059e-05,
+                "pid": 0,
+                "name": "System Idle Process"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.036007370211509404,
+                "pid": 4,
+                "name": "System"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.4238524471201386,
+                "pid": 236,
+                "name": ""
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.3209778336218443,
+                "pid": 280,
+                "name": "Registry"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.1554544135142641,
+                "pid": 504,
+                "name": "RuntimeBroker.exe"
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 3.1088120631218743,
+                "pid": 5700,
+                "name": "Code.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 3.0475945118138825,
+                "pid": 5152,
+                "name": "MsMpEng.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 3.0310974112358062,
+                "pid": 19728,
+                "name": "explorer.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.6392096658445734,
+                "pid": 18848,
+                "name": "Code.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 1.9359611180665097,
+                "pid": 14960,
+                "name": "Code.exe"
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                82
+            ],
+            [
+                "Code.exe",
+                13
+            ],
+            [
+                "msedge.exe",
+                10
+            ],
+            [
+                "RuntimeBroker.exe",
+                6
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ]
+        ]
+    }
+]
