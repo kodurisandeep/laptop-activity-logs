@@ -1,89 +1,89 @@
 {
     "date": "2026-08-14",
-    "cpu_percent": 8.1,
-    "memory_percent": 41.3,
+    "cpu_percent": 14.0,
+    "memory_percent": 42.9,
     "disk_usage_percent": 61.1,
-    "boot_time": "2026-08-13T00:14:05.213057",
-    "process_count": 192,
+    "boot_time": "2026-08-13T00:14:08.369313",
+    "process_count": 210,
     "top_cpu_processes": [
         {
-            "pid": 0,
             "memory_percent": 5.021948425594059e-05,
+            "cpu_percent": 0.0,
             "name": "System Idle Process",
-            "cpu_percent": 0.0
+            "pid": 0
         },
         {
-            "pid": 4,
-            "memory_percent": 0.030985421785915342,
+            "memory_percent": 0.03397348109914381,
+            "cpu_percent": 0.0,
             "name": "System",
-            "cpu_percent": 0.0
+            "pid": 4
         },
         {
-            "pid": 236,
             "memory_percent": 0.4238524471201386,
+            "cpu_percent": 0.0,
             "name": "",
-            "cpu_percent": 0.0
+            "pid": 236
         },
         {
-            "pid": 276,
-            "memory_percent": 0.37915710613235143,
-            "name": "MessagingPlugin.exe",
-            "cpu_percent": 0.0
-        },
-        {
-            "pid": 280,
-            "memory_percent": 0.27226493389358186,
+            "memory_percent": 0.316106543649018,
+            "cpu_percent": 0.0,
             "name": "Registry",
-            "cpu_percent": 0.0
+            "pid": 280
+        },
+        {
+            "memory_percent": 0.15542930377213612,
+            "cpu_percent": 0.0,
+            "name": "RuntimeBroker.exe",
+            "pid": 504
         }
     ],
     "top_memory_processes": [
         {
-            "pid": 9164,
-            "memory_percent": 2.6849345062596077,
+            "memory_percent": 2.87925880058797,
+            "cpu_percent": 0.0,
             "name": "explorer.exe",
-            "cpu_percent": 0.0
+            "pid": 19728
         },
         {
-            "pid": 5152,
-            "memory_percent": 2.5659394383151564,
+            "memory_percent": 2.825850379081777,
+            "cpu_percent": 0.0,
             "name": "MsMpEng.exe",
-            "cpu_percent": 0.0
+            "pid": 5152
         },
         {
-            "pid": 2620,
-            "memory_percent": 1.3643880580075218,
-            "name": "PhoneExperienceHost.exe",
-            "cpu_percent": 0.0
-        },
-        {
-            "pid": 16864,
-            "memory_percent": 1.3573322204695621,
+            "memory_percent": 1.5574066457452296,
+            "cpu_percent": 0.0,
             "name": "msedge.exe",
-            "cpu_percent": 0.0
+            "pid": 14928
         },
         {
-            "pid": 11040,
-            "memory_percent": 1.1324744797135882,
+            "memory_percent": 1.3559009651682679,
+            "cpu_percent": 0.0,
+            "name": "PhoneExperienceHost.exe",
+            "pid": 14456
+        },
+        {
+            "memory_percent": 1.1797059046563003,
+            "cpu_percent": 0.0,
             "name": "StartMenuExperienceHost.exe",
-            "cpu_percent": 0.0
+            "pid": 17784
         }
     ],
     "most_common_apps": [
         [
             "svchost.exe",
-            79
+            83
         ],
         [
             "msedge.exe",
-            7
-        ],
-        [
-            "msedgewebview2.exe",
-            6
+            9
         ],
         [
             "RuntimeBroker.exe",
+            6
+        ],
+        [
+            "msedgewebview2.exe",
             6
         ],
         [
