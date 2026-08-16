@@ -1032,5 +1032,193 @@
                 5
             ]
         ]
+    },
+    {
+        "date": "2026-08-14",
+        "cpu_percent": 26.2,
+        "memory_percent": 44.9,
+        "disk_usage_percent": 61.3,
+        "boot_time": "2026-08-13T00:14:08.363432",
+        "process_count": 203,
+        "top_cpu_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 5.021948425594059e-05,
+                "name": "System Idle Process",
+                "pid": 0
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.04700543726356039,
+                "name": "System",
+                "pid": 4
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.4238524471201386,
+                "name": "",
+                "pid": 236
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.30317502645311334,
+                "name": "Registry",
+                "pid": 280
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.15557996222490394,
+                "name": "RuntimeBroker.exe",
+                "pid": 504
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 3.047895828719418,
+                "name": "explorer.exe",
+                "pid": 19728
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.9497920662254384,
+                "name": "MsMpEng.exe",
+                "pid": 5152
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 1.3523353817860961,
+                "name": "PhoneExperienceHost.exe",
+                "pid": 14456
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 1.3029696287625065,
+                "name": "msedge.exe",
+                "pid": 7260
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 1.186661303225748,
+                "name": "StartMenuExperienceHost.exe",
+                "pid": 17784
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                82
+            ],
+            [
+                "msedge.exe",
+                7
+            ],
+            [
+                "RuntimeBroker.exe",
+                6
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "mscopilot.exe",
+                5
+            ]
+        ]
+    },
+    {
+        "date": "2026-08-15",
+        "cpu_percent": 16.6,
+        "memory_percent": 44.1,
+        "disk_usage_percent": 61.5,
+        "boot_time": "2026-08-13T00:14:08.363422",
+        "process_count": 211,
+        "top_cpu_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 5.021948425594059e-05,
+                "pid": 0,
+                "name": "System Idle Process"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.06430604958973193,
+                "pid": 4,
+                "name": "System"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.4238524471201386,
+                "pid": 236,
+                "name": ""
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.30282349006332177,
+                "pid": 280,
+                "name": "Registry"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.2926289347593658,
+                "pid": 900,
+                "name": "LenovoVantage-(SmartColorAddin).exe"
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.713408953832726,
+                "pid": 21120,
+                "name": "explorer.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.5200137199630985,
+                "pid": 5152,
+                "name": "MsMpEng.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 1.5686809199606881,
+                "pid": 9204,
+                "name": "msedge.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 1.564889348899365,
+                "pid": 14084,
+                "name": "msedge.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 1.3336286239007582,
+                "pid": 20812,
+                "name": "PhoneExperienceHost.exe"
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                83
+            ],
+            [
+                "msedge.exe",
+                10
+            ],
+            [
+                "RuntimeBroker.exe",
+                6
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "nvcontainer.exe",
+                3
+            ]
+        ]
     }
 ]
