@@ -1408,5 +1408,99 @@
                 3
             ]
         ]
+    },
+    {
+        "date": "2026-08-15",
+        "cpu_percent": 8.0,
+        "memory_percent": 45.4,
+        "disk_usage_percent": 61.6,
+        "boot_time": "2026-08-13T00:14:08.362033",
+        "process_count": 199,
+        "top_cpu_processes": [
+            {
+                "pid": 0,
+                "cpu_percent": 0.0,
+                "name": "System Idle Process",
+                "memory_percent": 5.021948425594059e-05
+            },
+            {
+                "pid": 4,
+                "cpu_percent": 0.0,
+                "name": "System",
+                "memory_percent": 0.0657624146331542
+            },
+            {
+                "pid": 236,
+                "cpu_percent": 0.0,
+                "name": "",
+                "memory_percent": 0.4238524471201386
+            },
+            {
+                "pid": 280,
+                "cpu_percent": 0.0,
+                "name": "Registry",
+                "memory_percent": 0.3590442026878472
+            },
+            {
+                "pid": 944,
+                "cpu_percent": 0.0,
+                "name": "RuntimeBroker.exe",
+                "memory_percent": 0.18209584991204059
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "pid": 21120,
+                "cpu_percent": 0.0,
+                "name": "explorer.exe",
+                "memory_percent": 2.754865138086005
+            },
+            {
+                "pid": 5152,
+                "cpu_percent": 0.0,
+                "name": "MsMpEng.exe",
+                "memory_percent": 2.2999268302114393
+            },
+            {
+                "pid": 19468,
+                "cpu_percent": 0.0,
+                "name": "msedge.exe",
+                "memory_percent": 2.094102273988467
+            },
+            {
+                "pid": 12044,
+                "cpu_percent": 0.0,
+                "name": "msedge.exe",
+                "memory_percent": 2.0565129900228953
+            },
+            {
+                "pid": 20812,
+                "cpu_percent": 0.0,
+                "name": "PhoneExperienceHost.exe",
+                "memory_percent": 1.3283806877960125
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                80
+            ],
+            [
+                "msedge.exe",
+                14
+            ],
+            [
+                "RuntimeBroker.exe",
+                7
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "nvcontainer.exe",
+                3
+            ]
+        ]
     }
 ]
