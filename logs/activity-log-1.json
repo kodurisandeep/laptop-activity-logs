@@ -7142,5 +7142,99 @@
                 6
             ]
         ]
+    },
+    {
+        "date": "2026-08-21",
+        "cpu_percent": 3.2,
+        "memory_percent": 45.7,
+        "disk_usage_percent": 62.1,
+        "boot_time": "2026-08-13T00:14:13.218992",
+        "process_count": 215,
+        "top_cpu_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 5.021948425594059e-05,
+                "name": "System Idle Process",
+                "pid": 0
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.054287262480671776,
+                "name": "System",
+                "pid": 4
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.4238524471201386,
+                "name": "",
+                "pid": 236
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.3571860817703775,
+                "name": "Registry",
+                "pid": 280
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.3137462278889888,
+                "name": "LenovoVantage-(IdeaNotebookAddin).exe",
+                "pid": 856
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.975203125258944,
+                "name": "explorer.exe",
+                "pid": 13888
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.4932467348546825,
+                "name": "msedge.exe",
+                "pid": 11480
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.2200527405023656,
+                "name": "MsMpEng.exe",
+                "pid": 5152
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.1891426479428344,
+                "name": "msedge.exe",
+                "pid": 18976
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 1.4316821669104822,
+                "name": "MemCompression",
+                "pid": 4276
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                88
+            ],
+            [
+                "msedge.exe",
+                12
+            ],
+            [
+                "RuntimeBroker.exe",
+                7
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "SearchFilterHost.exe",
+                4
+            ]
+        ]
     }
 ]
