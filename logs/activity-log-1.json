@@ -8646,5 +8646,99 @@
                 8
             ]
         ]
+    },
+    {
+        "date": "2026-08-21",
+        "cpu_percent": 23.6,
+        "memory_percent": 71.5,
+        "disk_usage_percent": 62.2,
+        "boot_time": "2026-08-13T00:14:13.206896",
+        "process_count": 246,
+        "top_cpu_processes": [
+            {
+                "memory_percent": 5.021948425594059e-05,
+                "cpu_percent": 0.0,
+                "name": "System Idle Process",
+                "pid": 0
+            },
+            {
+                "memory_percent": 0.07575609200008639,
+                "cpu_percent": 0.0,
+                "name": "System",
+                "pid": 4
+            },
+            {
+                "memory_percent": 0.4238524471201386,
+                "cpu_percent": 0.0,
+                "name": "",
+                "pid": 236
+            },
+            {
+                "memory_percent": 0.31803999379287173,
+                "cpu_percent": 0.0,
+                "name": "Registry",
+                "pid": 280
+            },
+            {
+                "memory_percent": 0.5335318007351127,
+                "cpu_percent": 0.0,
+                "name": "powershell.exe",
+                "pid": 888
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "memory_percent": 4.101701486346076,
+                "cpu_percent": 0.0,
+                "name": "Code.exe",
+                "pid": 8136
+            },
+            {
+                "memory_percent": 3.545043613111102,
+                "cpu_percent": 0.0,
+                "name": "Code.exe",
+                "pid": 16852
+            },
+            {
+                "memory_percent": 2.906728858475969,
+                "cpu_percent": 0.0,
+                "name": "explorer.exe",
+                "pid": 13888
+            },
+            {
+                "memory_percent": 2.762624048403548,
+                "cpu_percent": 0.0,
+                "name": "msedge.exe",
+                "pid": 14104
+            },
+            {
+                "memory_percent": 2.7011302899321485,
+                "cpu_percent": 0.0,
+                "name": "msedge.exe",
+                "pid": 10828
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                81
+            ],
+            [
+                "Code.exe",
+                19
+            ],
+            [
+                "msedge.exe",
+                18
+            ],
+            [
+                "OpenConsole.exe",
+                9
+            ],
+            [
+                "powershell.exe",
+                8
+            ]
+        ]
     }
 ]
