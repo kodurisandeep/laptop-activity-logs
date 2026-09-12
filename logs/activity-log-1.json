@@ -20396,5 +20396,99 @@
                 5
             ]
         ]
+    },
+    {
+        "date": "2026-09-11",
+        "cpu_percent": 21.1,
+        "memory_percent": 50.6,
+        "disk_usage_percent": 66.5,
+        "boot_time": "2026-09-10T17:03:46.571511",
+        "process_count": 215,
+        "top_cpu_processes": [
+            {
+                "memory_percent": 5.021948425594059e-05,
+                "pid": 0,
+                "name": "System Idle Process",
+                "cpu_percent": 0.0
+            },
+            {
+                "memory_percent": 0.06413028139483613,
+                "pid": 4,
+                "name": "System",
+                "cpu_percent": 0.0
+            },
+            {
+                "memory_percent": 0.4240784347992903,
+                "pid": 236,
+                "name": "",
+                "cpu_percent": 0.0
+            },
+            {
+                "memory_percent": 0.3471924044034453,
+                "pid": 280,
+                "name": "Registry",
+                "cpu_percent": 0.0
+            },
+            {
+                "memory_percent": 0.04160684270604678,
+                "pid": 372,
+                "name": "fontdrvhost.exe",
+                "cpu_percent": 0.0
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "memory_percent": 2.705901140936463,
+                "pid": 9624,
+                "name": "ChatGPT.exe",
+                "cpu_percent": 0.0
+            },
+            {
+                "memory_percent": 2.4670070543309537,
+                "pid": 5584,
+                "name": "MsMpEng.exe",
+                "cpu_percent": 0.0
+            },
+            {
+                "memory_percent": 2.3451494757839133,
+                "pid": 4588,
+                "name": "msedge.exe",
+                "cpu_percent": 0.0
+            },
+            {
+                "memory_percent": 2.309619190672836,
+                "pid": 10288,
+                "name": "ChatGPT.exe",
+                "cpu_percent": 0.0
+            },
+            {
+                "memory_percent": 1.9685786730907433,
+                "pid": 10012,
+                "name": "explorer.exe",
+                "cpu_percent": 0.0
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                83
+            ],
+            [
+                "msedge.exe",
+                12
+            ],
+            [
+                "ChatGPT.exe",
+                9
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "RuntimeBroker.exe",
+                5
+            ]
+        ]
     }
 ]
