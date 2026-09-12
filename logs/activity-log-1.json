@@ -20114,5 +20114,99 @@
                 4
             ]
         ]
+    },
+    {
+        "date": "2026-09-11",
+        "cpu_percent": 13.6,
+        "memory_percent": 34.8,
+        "disk_usage_percent": 66.0,
+        "boot_time": "2026-09-10T17:03:46.568741",
+        "process_count": 199,
+        "top_cpu_processes": [
+            {
+                "pid": 0,
+                "cpu_percent": 0.0,
+                "memory_percent": 5.021948425594059e-05,
+                "name": "System Idle Process"
+            },
+            {
+                "pid": 4,
+                "cpu_percent": 0.0,
+                "memory_percent": 0.048160485401447024,
+                "name": "System"
+            },
+            {
+                "pid": 236,
+                "cpu_percent": 0.0,
+                "memory_percent": 0.4240784347992903,
+                "name": ""
+            },
+            {
+                "pid": 280,
+                "cpu_percent": 0.0,
+                "memory_percent": 0.31110970496555196,
+                "name": "Registry"
+            },
+            {
+                "pid": 372,
+                "cpu_percent": 0.0,
+                "memory_percent": 0.055291652165790586,
+                "name": "fontdrvhost.exe"
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "pid": 5584,
+                "cpu_percent": 0.0,
+                "memory_percent": 2.2209064717347164,
+                "name": "MsMpEng.exe"
+            },
+            {
+                "pid": 10012,
+                "cpu_percent": 0.0,
+                "memory_percent": 1.624675644906062,
+                "name": "explorer.exe"
+            },
+            {
+                "pid": 4404,
+                "cpu_percent": 0.0,
+                "memory_percent": 1.0990785226833877,
+                "name": "PhoneExperienceHost.exe"
+            },
+            {
+                "pid": 11684,
+                "cpu_percent": 0.0,
+                "memory_percent": 1.0471013564784892,
+                "name": "StartMenuExperienceHost.exe"
+            },
+            {
+                "pid": 20092,
+                "cpu_percent": 0.0,
+                "memory_percent": 0.9303661653255554,
+                "name": "SearchHost.exe"
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                90
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "RuntimeBroker.exe",
+                4
+            ],
+            [
+                "updater.exe",
+                4
+            ],
+            [
+                "nvcontainer.exe",
+                3
+            ]
+        ]
     }
 ]
