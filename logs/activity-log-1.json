@@ -20584,5 +20584,99 @@
                 6
             ]
         ]
+    },
+    {
+        "date": "2026-09-11",
+        "cpu_percent": 10.4,
+        "memory_percent": 50.5,
+        "disk_usage_percent": 66.5,
+        "boot_time": "2026-09-10T17:03:46.567929",
+        "process_count": 217,
+        "top_cpu_processes": [
+            {
+                "memory_percent": 5.021948425594059e-05,
+                "cpu_percent": 0.0,
+                "pid": 0,
+                "name": "System Idle Process"
+            },
+            {
+                "memory_percent": 0.06546109772761856,
+                "cpu_percent": 0.0,
+                "pid": 4,
+                "name": "System"
+            },
+            {
+                "memory_percent": 0.4240784347992903,
+                "cpu_percent": 0.0,
+                "pid": 236,
+                "name": ""
+            },
+            {
+                "memory_percent": 0.2900175215780569,
+                "cpu_percent": 0.0,
+                "pid": 280,
+                "name": "Registry"
+            },
+            {
+                "memory_percent": 0.03944740488304133,
+                "cpu_percent": 0.0,
+                "pid": 372,
+                "name": "fontdrvhost.exe"
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "memory_percent": 3.6494750306213306,
+                "cpu_percent": 0.0,
+                "pid": 11308,
+                "name": "Code.exe"
+            },
+            {
+                "memory_percent": 3.54185467586085,
+                "cpu_percent": 0.0,
+                "pid": 3692,
+                "name": "MemCompression"
+            },
+            {
+                "memory_percent": 2.2759470264792276,
+                "cpu_percent": 0.0,
+                "pid": 15516,
+                "name": "Code.exe"
+            },
+            {
+                "memory_percent": 1.964335126671116,
+                "cpu_percent": 0.0,
+                "pid": 5584,
+                "name": "MsMpEng.exe"
+            },
+            {
+                "memory_percent": 1.8523205670382408,
+                "cpu_percent": 0.0,
+                "pid": 10012,
+                "name": "explorer.exe"
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                81
+            ],
+            [
+                "Code.exe",
+                17
+            ],
+            [
+                "msedge.exe",
+                14
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "RuntimeBroker.exe",
+                5
+            ]
+        ]
     }
 ]
