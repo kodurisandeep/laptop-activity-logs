@@ -22746,5 +22746,99 @@
                 6
             ]
         ]
+    },
+    {
+        "date": "2026-09-13",
+        "cpu_percent": 17.5,
+        "memory_percent": 47.0,
+        "disk_usage_percent": 66.0,
+        "boot_time": "2026-09-10T17:03:49.181466",
+        "process_count": 229,
+        "top_cpu_processes": [
+            {
+                "memory_percent": 5.021948425594059e-05,
+                "cpu_percent": 0.0,
+                "name": "System Idle Process",
+                "pid": 0
+            },
+            {
+                "memory_percent": 0.09340824071604949,
+                "cpu_percent": 0.0,
+                "name": "System",
+                "pid": 4
+            },
+            {
+                "memory_percent": 0.4240784347992903,
+                "cpu_percent": 0.0,
+                "name": "",
+                "pid": 236
+            },
+            {
+                "memory_percent": 0.30980399837489747,
+                "cpu_percent": 0.0,
+                "name": "Registry",
+                "pid": 280
+            },
+            {
+                "memory_percent": 0.04806004643293514,
+                "cpu_percent": 0.0,
+                "name": "svchost.exe",
+                "pid": 948
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "memory_percent": 2.859949408891561,
+                "cpu_percent": 0.0,
+                "name": "msedge.exe",
+                "pid": 44852
+            },
+            {
+                "memory_percent": 2.5361341744092556,
+                "cpu_percent": 0.0,
+                "name": "MemCompression",
+                "pid": 3692
+            },
+            {
+                "memory_percent": 2.428463600164519,
+                "cpu_percent": 0.0,
+                "name": "msedge.exe",
+                "pid": 32916
+            },
+            {
+                "memory_percent": 2.207573198664764,
+                "cpu_percent": 0.0,
+                "name": "claude.exe",
+                "pid": 50092
+            },
+            {
+                "memory_percent": 2.0620873527753045,
+                "cpu_percent": 0.0,
+                "name": "explorer.exe",
+                "pid": 48572
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                88
+            ],
+            [
+                "msedge.exe",
+                14
+            ],
+            [
+                "claude.exe",
+                8
+            ],
+            [
+                "RuntimeBroker.exe",
+                8
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ]
+        ]
     }
 ]
