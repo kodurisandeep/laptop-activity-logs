@@ -25660,5 +25660,99 @@
                 6
             ]
         ]
+    },
+    {
+        "date": "2026-09-19",
+        "cpu_percent": 17.7,
+        "memory_percent": 85.7,
+        "disk_usage_percent": 67.8,
+        "boot_time": "2026-09-16T16:38:07.682013",
+        "process_count": 225,
+        "top_cpu_processes": [
+            {
+                "cpu_percent": 0.0,
+                "pid": 0,
+                "name": "System Idle Process",
+                "memory_percent": 5.021948425594059e-05
+            },
+            {
+                "cpu_percent": 0.0,
+                "pid": 4,
+                "name": "System",
+                "memory_percent": 0.09170077825134751
+            },
+            {
+                "cpu_percent": 0.0,
+                "pid": 236,
+                "name": "",
+                "memory_percent": 0.4305316385261787
+            },
+            {
+                "cpu_percent": 0.0,
+                "pid": 280,
+                "name": "Registry",
+                "memory_percent": 0.2111478215541022
+            },
+            {
+                "cpu_percent": 0.0,
+                "pid": 440,
+                "name": "Notepad.exe",
+                "memory_percent": 1.0504409521815092
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "cpu_percent": 0.0,
+                "pid": 21912,
+                "name": "qemu-system-x86_64.exe",
+                "memory_percent": 24.564810504309083
+            },
+            {
+                "cpu_percent": 0.0,
+                "pid": 28224,
+                "name": "studio64.exe",
+                "memory_percent": 12.87386522797888
+            },
+            {
+                "cpu_percent": 0.0,
+                "pid": 27712,
+                "name": "msedge.exe",
+                "memory_percent": 2.8969611687881884
+            },
+            {
+                "cpu_percent": 0.0,
+                "pid": 4252,
+                "name": "MemCompression",
+                "memory_percent": 2.190950549376048
+            },
+            {
+                "cpu_percent": 0.0,
+                "pid": 1980,
+                "name": "msedge.exe",
+                "memory_percent": 2.0881261553620094
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                81
+            ],
+            [
+                "msedge.exe",
+                16
+            ],
+            [
+                "claude.exe",
+                8
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "RuntimeBroker.exe",
+                6
+            ]
+        ]
     }
 ]
