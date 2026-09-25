@@ -32240,5 +32240,99 @@
                 7
             ]
         ]
+    },
+    {
+        "date": "2026-09-24",
+        "cpu_percent": 8.9,
+        "memory_percent": 53.2,
+        "disk_usage_percent": 70.3,
+        "boot_time": "2026-09-16T16:38:10.921130",
+        "process_count": 245,
+        "top_cpu_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 5.021948425594059e-05,
+                "pid": 0,
+                "name": "System Idle Process"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.04783405875378341,
+                "pid": 4,
+                "name": "System"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.40557255485097615,
+                "pid": 8,
+                "name": "ollama.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.4305316385261787,
+                "pid": 236,
+                "name": ""
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.3629613224598106,
+                "pid": 280,
+                "name": "Registry"
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 3.651734907412848,
+                "pid": 4252,
+                "name": "MemCompression"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.5828382947672806,
+                "pid": 19540,
+                "name": "explorer.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.579473589322132,
+                "pid": 3304,
+                "name": "obs64.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.2387846081298313,
+                "pid": 17536,
+                "name": "Code.exe"
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.0275363476072172,
+                "pid": 29144,
+                "name": "msedge.exe"
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                84
+            ],
+            [
+                "msedge.exe",
+                15
+            ],
+            [
+                "Code.exe",
+                9
+            ],
+            [
+                "RuntimeBroker.exe",
+                7
+            ],
+            [
+                "conhost.exe",
+                7
+            ]
+        ]
     }
 ]
