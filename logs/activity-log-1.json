@@ -31958,5 +31958,99 @@
                 6
             ]
         ]
+    },
+    {
+        "date": "2026-09-24",
+        "cpu_percent": 21.3,
+        "memory_percent": 67.3,
+        "disk_usage_percent": 68.3,
+        "boot_time": "2026-09-16T16:38:10.919591",
+        "process_count": 242,
+        "top_cpu_processes": [
+            {
+                "pid": 0,
+                "name": "System Idle Process",
+                "cpu_percent": 0.0,
+                "memory_percent": 5.021948425594059e-05
+            },
+            {
+                "pid": 4,
+                "name": "System",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.0459006086099297
+            },
+            {
+                "pid": 236,
+                "name": "",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.4305316385261787
+            },
+            {
+                "pid": 280,
+                "name": "Registry",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.3927916961078393
+            },
+            {
+                "pid": 964,
+                "name": "smss.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.009843018914164356
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "pid": 16848,
+                "name": "Code.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 3.5342966434803307
+            },
+            {
+                "pid": 21640,
+                "name": "Code.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 3.2554780668913486
+            },
+            {
+                "pid": 32912,
+                "name": "msedge.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 3.0338845926120106
+            },
+            {
+                "pid": 3136,
+                "name": "claude.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 2.9166723163586457
+            },
+            {
+                "pid": 3304,
+                "name": "obs64.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 2.579850235454052
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                84
+            ],
+            [
+                "msedge.exe",
+                16
+            ],
+            [
+                "Code.exe",
+                10
+            ],
+            [
+                "RuntimeBroker.exe",
+                8
+            ],
+            [
+                "claude.exe",
+                8
+            ]
+        ]
     }
 ]
