@@ -35342,5 +35342,99 @@
                 5
             ]
         ]
+    },
+    {
+        "date": "2026-09-26",
+        "cpu_percent": 22.2,
+        "memory_percent": 44.9,
+        "disk_usage_percent": 69.7,
+        "boot_time": "2026-09-16T16:38:19.285250",
+        "process_count": 219,
+        "top_cpu_processes": [
+            {
+                "pid": 0,
+                "name": "System Idle Process",
+                "cpu_percent": 0.0,
+                "memory_percent": 5.021948425594059e-05
+            },
+            {
+                "pid": 4,
+                "name": "System",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.06380385474717251
+            },
+            {
+                "pid": 236,
+                "name": "",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.4305316385261787
+            },
+            {
+                "pid": 280,
+                "name": "Registry",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.32572357488403064
+            },
+            {
+                "pid": 964,
+                "name": "smss.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.009843018914164356
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "pid": 27212,
+                "name": "msedge.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 2.5547656030682098
+            },
+            {
+                "pid": 26664,
+                "name": "obs64.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 2.4654000308347634
+            },
+            {
+                "pid": 8504,
+                "name": "msedge.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 2.3268193640304955
+            },
+            {
+                "pid": 8376,
+                "name": "explorer.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 1.9521569017390505
+            },
+            {
+                "pid": 4252,
+                "name": "MemCompression",
+                "cpu_percent": 0.0,
+                "memory_percent": 1.9193384687777932
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                83
+            ],
+            [
+                "msedge.exe",
+                14
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "obs-browser-page.exe",
+                6
+            ],
+            [
+                "mscopilot.exe",
+                5
+            ]
+        ]
     }
 ]
