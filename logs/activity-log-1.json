@@ -37316,5 +37316,99 @@
                 5
             ]
         ]
+    },
+    {
+        "date": "2026-09-27",
+        "cpu_percent": 15.0,
+        "memory_percent": 39.6,
+        "disk_usage_percent": 69.4,
+        "boot_time": "2026-09-16T16:38:19.284521",
+        "process_count": 205,
+        "top_cpu_processes": [
+            {
+                "name": "System Idle Process",
+                "memory_percent": 5.021948425594059e-05,
+                "cpu_percent": 0.0,
+                "pid": 0
+            },
+            {
+                "name": "System",
+                "memory_percent": 0.06526021979059479,
+                "cpu_percent": 0.0,
+                "pid": 4
+            },
+            {
+                "name": "",
+                "memory_percent": 0.4305316385261787,
+                "cpu_percent": 0.0,
+                "pid": 236
+            },
+            {
+                "name": "Registry",
+                "memory_percent": 0.34407879637957695,
+                "cpu_percent": 0.0,
+                "pid": 280
+            },
+            {
+                "name": "smss.exe",
+                "memory_percent": 0.009843018914164356,
+                "cpu_percent": 0.0,
+                "pid": 964
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "name": "obs64.exe",
+                "memory_percent": 2.4876723721022733,
+                "cpu_percent": 0.0,
+                "pid": 26664
+            },
+            {
+                "name": "explorer.exe",
+                "memory_percent": 2.4211566652052796,
+                "cpu_percent": 0.0,
+                "pid": 8376
+            },
+            {
+                "name": "svchost.exe",
+                "memory_percent": 1.6905636082498559,
+                "cpu_percent": 0.0,
+                "pid": 2884
+            },
+            {
+                "name": "MsMpEng.exe",
+                "memory_percent": 1.452221935971162,
+                "cpu_percent": 0.0,
+                "pid": 5632
+            },
+            {
+                "name": "MemCompression",
+                "memory_percent": 1.3007599714552451,
+                "cpu_percent": 0.0,
+                "pid": 4252
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                83
+            ],
+            [
+                "msedge.exe",
+                7
+            ],
+            [
+                "RuntimeBroker.exe",
+                6
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "obs-browser-page.exe",
+                6
+            ]
+        ]
     }
 ]
