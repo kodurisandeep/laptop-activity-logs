@@ -38914,5 +38914,99 @@
                 5
             ]
         ]
+    },
+    {
+        "date": "2026-10-01",
+        "cpu_percent": 14.3,
+        "memory_percent": 41.8,
+        "disk_usage_percent": 69.2,
+        "boot_time": "2026-09-30T20:09:00.294334",
+        "process_count": 200,
+        "top_cpu_processes": [
+            {
+                "pid": 0,
+                "name": "System Idle Process",
+                "cpu_percent": 0.0,
+                "memory_percent": 5.021948425594059e-05
+            },
+            {
+                "pid": 4,
+                "name": "System",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.023075853015604702
+            },
+            {
+                "pid": 236,
+                "name": "",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.4241537640256742
+            },
+            {
+                "pid": 280,
+                "name": "Registry",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.32165579665929944
+            },
+            {
+                "pid": 764,
+                "name": "Locator.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 0.0246828765117948
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "pid": 22140,
+                "name": "obs64.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 2.817087079079115
+            },
+            {
+                "pid": 14380,
+                "name": "explorer.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 2.124208854799903
+            },
+            {
+                "pid": 5432,
+                "name": "MsMpEng.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 1.9953958776834153
+            },
+            {
+                "pid": 2188,
+                "name": "msedge.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 1.2996300330594865
+            },
+            {
+                "pid": 19484,
+                "name": "vlc.exe",
+                "cpu_percent": 0.0,
+                "memory_percent": 1.1685320694093535
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                81
+            ],
+            [
+                "msedge.exe",
+                7
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "obs-browser-page.exe",
+                6
+            ],
+            [
+                "RuntimeBroker.exe",
+                4
+            ]
+        ]
     }
 ]
