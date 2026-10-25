@@ -48502,5 +48502,99 @@
                 7
             ]
         ]
+    },
+    {
+        "date": "2026-10-24",
+        "cpu_percent": 17.0,
+        "memory_percent": 52.7,
+        "disk_usage_percent": 72.1,
+        "boot_time": "2026-10-23T08:57:51.915908",
+        "process_count": 242,
+        "top_cpu_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 5.021948425594059e-05,
+                "name": "System Idle Process",
+                "pid": 0
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.1220584564840636,
+                "name": "System",
+                "pid": 4
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.43100872362661014,
+                "name": "",
+                "pid": 236
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.2881594006605871,
+                "name": "Registry",
+                "pid": 280
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 0.06553642695400247,
+                "name": "SearchFilterHost.exe",
+                "pid": 372
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 5.640677581369375,
+                "name": "MemCompression",
+                "pid": 4312
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 3.4421438898706795,
+                "name": "msedge.exe",
+                "pid": 660
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.572794397916092,
+                "name": "msedge.exe",
+                "pid": 14432
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.4349921331177913,
+                "name": "msedge.exe",
+                "pid": 23204
+            },
+            {
+                "cpu_percent": 0.0,
+                "memory_percent": 2.2047357978043034,
+                "name": "claude.exe",
+                "pid": 12964
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                84
+            ],
+            [
+                "msedge.exe",
+                14
+            ],
+            [
+                "copilotapp.exe",
+                12
+            ],
+            [
+                "claude.exe",
+                8
+            ],
+            [
+                "RuntimeBroker.exe",
+                8
+            ]
+        ]
     }
 ]
