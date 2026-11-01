@@ -53108,5 +53108,99 @@
                 7
             ]
         ]
+    },
+    {
+        "date": "2026-10-31",
+        "cpu_percent": 10.4,
+        "memory_percent": 45.0,
+        "disk_usage_percent": 71.7,
+        "boot_time": "2026-10-23T08:58:04.089684",
+        "process_count": 232,
+        "top_cpu_processes": [
+            {
+                "pid": 0,
+                "name": "System Idle Process",
+                "memory_percent": 5.021948425594059e-05,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 4,
+                "name": "System",
+                "memory_percent": 0.07871904157118687,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 236,
+                "name": "",
+                "memory_percent": 0.43100872362661014,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 280,
+                "name": "Registry",
+                "memory_percent": 0.2891637903457059,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 372,
+                "name": "SearchFilterHost.exe",
+                "memory_percent": 0.06438137881611583,
+                "cpu_percent": 0.0
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "pid": 4312,
+                "name": "MemCompression",
+                "memory_percent": 2.4533975740975937,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 26436,
+                "name": "msedge.exe",
+                "memory_percent": 2.183317187769145,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 8772,
+                "name": "msedge.exe",
+                "memory_percent": 2.1525075341781252,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 9160,
+                "name": "msedge.exe",
+                "memory_percent": 2.0678123739804817,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 2500,
+                "name": "explorer.exe",
+                "memory_percent": 1.9499221346896614,
+                "cpu_percent": 0.0
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                84
+            ],
+            [
+                "msedge.exe",
+                12
+            ],
+            [
+                "printfilterpipelinesvc.exe",
+                9
+            ],
+            [
+                "copilotapp.exe",
+                9
+            ],
+            [
+                "RuntimeBroker.exe",
+                8
+            ]
+        ]
     }
 ]
