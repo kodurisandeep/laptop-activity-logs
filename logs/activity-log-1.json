@@ -55270,5 +55270,99 @@
                 8
             ]
         ]
+    },
+    {
+        "date": "2026-11-05",
+        "cpu_percent": 18.7,
+        "memory_percent": 97.8,
+        "disk_usage_percent": 72.8,
+        "boot_time": "2026-10-23T08:58:10.123942",
+        "process_count": 268,
+        "top_cpu_processes": [
+            {
+                "memory_percent": 5.021948425594059e-05,
+                "cpu_percent": 0.0,
+                "name": "System Idle Process",
+                "pid": 0
+            },
+            {
+                "memory_percent": 0.09943457882676238,
+                "cpu_percent": 0.0,
+                "name": "System",
+                "pid": 4
+            },
+            {
+                "memory_percent": 0.43100872362661014,
+                "cpu_percent": 0.0,
+                "name": "",
+                "pid": 236
+            },
+            {
+                "memory_percent": 0.20610076338638017,
+                "cpu_percent": 0.0,
+                "name": "Registry",
+                "pid": 280
+            },
+            {
+                "memory_percent": 0.03919630746176163,
+                "cpu_percent": 0.0,
+                "name": "SearchFilterHost.exe",
+                "pid": 372
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "memory_percent": 19.14198504564198,
+                "cpu_percent": 0.0,
+                "name": "studio64.exe",
+                "pid": 6228
+            },
+            {
+                "memory_percent": 18.057671051329837,
+                "cpu_percent": 0.0,
+                "name": "qemu-system-x86_64.exe",
+                "pid": 22808
+            },
+            {
+                "memory_percent": 9.944838918493275,
+                "cpu_percent": 0.0,
+                "name": "java.exe",
+                "pid": 8264
+            },
+            {
+                "memory_percent": 6.325696456362532,
+                "cpu_percent": 0.0,
+                "name": "java.exe",
+                "pid": 3504
+            },
+            {
+                "memory_percent": 1.9943663782561687,
+                "cpu_percent": 0.0,
+                "name": "MsMpEng.exe",
+                "pid": 22784
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                83
+            ],
+            [
+                "printfilterpipelinesvc.exe",
+                28
+            ],
+            [
+                "msedge.exe",
+                11
+            ],
+            [
+                "copilotapp.exe",
+                9
+            ],
+            [
+                "claude.exe",
+                8
+            ]
+        ]
     }
 ]
