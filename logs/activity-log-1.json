@@ -55176,5 +55176,99 @@
                 8
             ]
         ]
+    },
+    {
+        "date": "2026-11-05",
+        "cpu_percent": 19.4,
+        "memory_percent": 88.3,
+        "disk_usage_percent": 72.5,
+        "boot_time": "2026-10-23T08:58:10.124115",
+        "process_count": 272,
+        "top_cpu_processes": [
+            {
+                "name": "System Idle Process",
+                "cpu_percent": 0.0,
+                "pid": 0,
+                "memory_percent": 5.021948425594059e-05
+            },
+            {
+                "name": "System",
+                "cpu_percent": 0.0,
+                "pid": 4,
+                "memory_percent": 0.06528532953272276
+            },
+            {
+                "name": "",
+                "cpu_percent": 0.0,
+                "pid": 236,
+                "memory_percent": 0.43100872362661014
+            },
+            {
+                "name": "Registry",
+                "cpu_percent": 0.0,
+                "pid": 280,
+                "memory_percent": 0.20595010493361232
+            },
+            {
+                "name": "SearchFilterHost.exe",
+                "cpu_percent": 0.0,
+                "pid": 372,
+                "memory_percent": 0.022372780236021534
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "name": "studio64.exe",
+                "cpu_percent": 0.0,
+                "pid": 6228,
+                "memory_percent": 17.586235642877195
+            },
+            {
+                "name": "java.exe",
+                "cpu_percent": 0.0,
+                "pid": 8264,
+                "memory_percent": 10.084800621114582
+            },
+            {
+                "name": "java.exe",
+                "cpu_percent": 0.0,
+                "pid": 3504,
+                "memory_percent": 6.64057262264728
+            },
+            {
+                "name": "qemu-system-x86_64.exe",
+                "cpu_percent": 0.0,
+                "pid": 22808,
+                "memory_percent": 6.324666956935286
+            },
+            {
+                "name": "BackgroundDownload.exe",
+                "cpu_percent": 0.0,
+                "pid": 9064,
+                "memory_percent": 2.1686530983664105
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                85
+            ],
+            [
+                "printfilterpipelinesvc.exe",
+                28
+            ],
+            [
+                "msedge.exe",
+                13
+            ],
+            [
+                "copilotapp.exe",
+                9
+            ],
+            [
+                "claude.exe",
+                8
+            ]
+        ]
     }
 ]
