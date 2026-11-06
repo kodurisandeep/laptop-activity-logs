@@ -54424,5 +54424,99 @@
                 8
             ]
         ]
+    },
+    {
+        "date": "2026-11-05",
+        "cpu_percent": 2.3,
+        "memory_percent": 77.1,
+        "disk_usage_percent": 72.9,
+        "boot_time": "2026-10-23T08:58:10.125523",
+        "process_count": 263,
+        "top_cpu_processes": [
+            {
+                "pid": 0,
+                "name": "System Idle Process",
+                "memory_percent": 5.021948425594059e-05,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 4,
+                "name": "System",
+                "memory_percent": 0.2005766201182267,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 236,
+                "name": "",
+                "memory_percent": 0.43100872362661014,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 280,
+                "name": "Registry",
+                "memory_percent": 0.2340730161169391,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 372,
+                "name": "SearchFilterHost.exe",
+                "memory_percent": 0.06385407423142847,
+                "cpu_percent": 0.0
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "pid": 6228,
+                "name": "studio64.exe",
+                "memory_percent": 16.49878293079906,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 8264,
+                "name": "java.exe",
+                "memory_percent": 6.229877680402198,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 4312,
+                "name": "MemCompression",
+                "memory_percent": 3.0431751971993597,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 27928,
+                "name": "claude.exe",
+                "memory_percent": 2.936684780834638,
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 6100,
+                "name": "explorer.exe",
+                "memory_percent": 2.135935104373665,
+                "cpu_percent": 0.0
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                87
+            ],
+            [
+                "printfilterpipelinesvc.exe",
+                28
+            ],
+            [
+                "msedge.exe",
+                14
+            ],
+            [
+                "copilotapp.exe",
+                9
+            ],
+            [
+                "claude.exe",
+                8
+            ]
+        ]
     }
 ]
