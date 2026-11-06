@@ -55082,5 +55082,99 @@
                 8
             ]
         ]
+    },
+    {
+        "date": "2026-11-05",
+        "cpu_percent": 22.5,
+        "memory_percent": 88.4,
+        "disk_usage_percent": 74.0,
+        "boot_time": "2026-10-23T08:58:10.124248",
+        "process_count": 269,
+        "top_cpu_processes": [
+            {
+                "pid": 0,
+                "memory_percent": 5.021948425594059e-05,
+                "name": "System Idle Process",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 4,
+                "memory_percent": 0.20866195708343313,
+                "name": "System",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 236,
+                "memory_percent": 0.43100872362661014,
+                "name": "",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 280,
+                "memory_percent": 0.2033889112365594,
+                "name": "Registry",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 372,
+                "memory_percent": 0.01617067393041287,
+                "name": "SearchFilterHost.exe",
+                "cpu_percent": 0.0
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "pid": 6228,
+                "memory_percent": 18.564787403346326,
+                "name": "studio64.exe",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 8264,
+                "memory_percent": 10.64276420094021,
+                "name": "java.exe",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 22808,
+                "memory_percent": 7.313061736318581,
+                "name": "qemu-system-x86_64.exe",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 3504,
+                "memory_percent": 6.9308412416466165,
+                "name": "java.exe",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 4312,
+                "memory_percent": 2.878857044713922,
+                "name": "MemCompression",
+                "cpu_percent": 0.0
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                83
+            ],
+            [
+                "printfilterpipelinesvc.exe",
+                28
+            ],
+            [
+                "msedge.exe",
+                13
+            ],
+            [
+                "copilotapp.exe",
+                9
+            ],
+            [
+                "claude.exe",
+                8
+            ]
+        ]
     }
 ]
