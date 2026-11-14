@@ -60440,5 +60440,99 @@
                 5
             ]
         ]
+    },
+    {
+        "date": "2026-11-13",
+        "cpu_percent": 15.9,
+        "memory_percent": 41.2,
+        "disk_usage_percent": 72.6,
+        "boot_time": "2026-11-11T22:50:40.931832",
+        "process_count": 210,
+        "top_cpu_processes": [
+            {
+                "name": "System Idle Process",
+                "pid": 0,
+                "memory_percent": 5.021948425594059e-05,
+                "cpu_percent": 0.0
+            },
+            {
+                "name": "System",
+                "pid": 4,
+                "memory_percent": 0.12203334674193564,
+                "cpu_percent": 0.0
+            },
+            {
+                "name": "",
+                "pid": 236,
+                "memory_percent": 0.4272422623074146,
+                "cpu_percent": 0.0
+            },
+            {
+                "name": "Registry",
+                "pid": 280,
+                "memory_percent": 0.3094524619851059,
+                "cpu_percent": 0.0
+            },
+            {
+                "name": "SearchProtocolHost.exe",
+                "pid": 372,
+                "memory_percent": 0.09250428999944256,
+                "cpu_percent": 0.0
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "name": "MemCompression",
+                "pid": 4292,
+                "memory_percent": 2.5201141589316105,
+                "cpu_percent": 0.0
+            },
+            {
+                "name": "msedge.exe",
+                "pid": 20372,
+                "memory_percent": 2.1526330828887654,
+                "cpu_percent": 0.0
+            },
+            {
+                "name": "msedge.exe",
+                "pid": 17852,
+                "memory_percent": 1.8346433085801497,
+                "cpu_percent": 0.0
+            },
+            {
+                "name": "MsMpEng.exe",
+                "pid": 5220,
+                "memory_percent": 1.698046311403991,
+                "cpu_percent": 0.0
+            },
+            {
+                "name": "explorer.exe",
+                "pid": 2396,
+                "memory_percent": 1.545203311071036,
+                "cpu_percent": 0.0
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                83
+            ],
+            [
+                "msedge.exe",
+                11
+            ],
+            [
+                "copilotapp.exe",
+                9
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "RuntimeBroker.exe",
+                5
+            ]
+        ]
     }
 ]
