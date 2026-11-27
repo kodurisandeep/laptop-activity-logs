@@ -67772,5 +67772,99 @@
                 6
             ]
         ]
+    },
+    {
+        "date": "2026-11-26",
+        "cpu_percent": 72.1,
+        "memory_percent": 42.9,
+        "disk_usage_percent": 71.7,
+        "boot_time": "2026-11-11T22:50:53.076607",
+        "process_count": 217,
+        "top_cpu_processes": [
+            {
+                "pid": 0,
+                "memory_percent": 5.021948425594059e-05,
+                "name": "System Idle Process",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 4,
+                "memory_percent": 0.04700543726356039,
+                "name": "System",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 236,
+                "memory_percent": 0.4272422623074146,
+                "name": "",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 280,
+                "memory_percent": 0.3253469287521111,
+                "name": "Registry",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 784,
+                "memory_percent": 0.15000559947249453,
+                "name": "svchost.exe",
+                "cpu_percent": 0.0
+            }
+        ],
+        "top_memory_processes": [
+            {
+                "pid": 12308,
+                "memory_percent": 2.7450723386560965,
+                "name": "explorer.exe",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 4292,
+                "memory_percent": 2.1381949811651824,
+                "name": "MemCompression",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 5220,
+                "memory_percent": 1.6693207664095933,
+                "name": "MsMpEng.exe",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 27652,
+                "memory_percent": 0.9500522031538841,
+                "name": "LockApp.exe",
+                "cpu_percent": 0.0
+            },
+            {
+                "pid": 1992,
+                "memory_percent": 0.9262230578744403,
+                "name": "dwm.exe",
+                "cpu_percent": 0.0
+            }
+        ],
+        "most_common_apps": [
+            [
+                "svchost.exe",
+                90
+            ],
+            [
+                "copilotapp.exe",
+                9
+            ],
+            [
+                "SearchFilterHost.exe",
+                6
+            ],
+            [
+                "msedgewebview2.exe",
+                6
+            ],
+            [
+                "conhost.exe",
+                4
+            ]
+        ]
     }
 ]
